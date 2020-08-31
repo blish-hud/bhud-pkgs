@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Universal Search",
+  "namespace": "bh.general.universalsearch",
+  "version": "0.4.9",
+  "contributors": [
+    {
+      "name": "Freesnöw",
+      "username": "LandersXanders.1235",
+      "url": "https://github.com/dlamkins"
+    }
+  ],
+  "description": "Allows you to search for in game landmarks (waypoints, POIs, vistas, etc.) and copy the chat codes into your clipboard.",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.0"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "location": "https://ci.appveyor.com/api/buildjobs/973i00am9omm4jrj/artifacts/Universal%20Search.bhm",
+  "hash": "EDA09FBD8A131F95A8A9D6B1723CD1B2546466DD1F2FBB17F2E70DA193B2E946"
+}

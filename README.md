@@ -49,7 +49,7 @@ To help authors create module package manifests, we have provided BhudLib — a 
 
 From start to finish, in PowerShell:
 
-```ps
+```
 # Clone your fork of this repository and create a new branch to work in.
 git clone https://github.com/<your-username>/bhud-pkgs.git
 git checkout -b yourmodule_version
