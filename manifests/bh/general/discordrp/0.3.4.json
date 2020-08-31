@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Discord Rich Presence",
+  "namespace": "bh.general.discordrp",
+  "version": "0.3.4",
+  "contributors": [
+    {
+      "name": "Freesnöw",
+      "username": "LandersXanders.1235",
+      "url": "https://github.com/dlamkins"
+    }
+  ],
+  "description": "Integrates with Discord to show what you're up to in the world of Guild Wars 2.",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.0"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "location": "https://ci.appveyor.com/api/buildjobs/973i00am9omm4jrj/artifacts/Discord%20Rich%20Presence.bhm",
+  "hash": "4FFDC2A70F9A550FA9C6CE8720CA157D27336FB203AF4B4E3078DBACFDFDFB2B"
+}
