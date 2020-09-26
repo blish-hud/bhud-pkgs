@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1",
+  "name": "KillProof Module",
+  "namespace": "Nekres.KillProof",
+  "version": "1.5.0",
+  "contributors": [
+    {
+      "name": "Andrew Gardner",
+      "username": "Nekres.1038"
+    },
+    {
+      "name": "Leaky",
+      "username": "Leaky.1472"
+    },
+    {
+      "name": "Jaq",
+      "username": "Jaq.6829"
+    }
+  ],
+  "description": "Check someone's kills for raiding. Uses ArcDPS Bridge service if available.\n\nPowered by www.killproof.me",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.0"
+  },
+  "url": "https://killproof.me/",
+  "location": "https://github.com/blish-hud/KillProof-Module/releases/download/v1.5.0/KillProof.bhm",
+  "hash": "B1B58451859252F2133C1AE85E0FE938C81E63DF9A9A1E10F31D59C1F0C0AA7B"
+}
