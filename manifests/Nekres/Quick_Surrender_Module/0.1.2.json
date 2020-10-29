@@ -3,7 +3,10 @@
   "name": "Quick Surrender",
   "namespace": "Nekres.Quick_Surrender_Module",
   "version": "0.1.2",
-  "contributors": null,
+  "author": {
+    "name": "Nekres",
+    "username": "Nekres.1038"
+  },
   "description": "Allows to abandon all hope and defeat your character for when you are so done with everything.\n\nUsable only in raids or fractals.",
   "dependencies": {
     "bh.blishhud": ">=0.6.0"

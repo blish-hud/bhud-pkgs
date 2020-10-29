@@ -3,7 +3,10 @@
   "name": "Random Generator",
   "namespace": "Nekres.Random_Generator_Module",
   "version": "0.1.1",
-  "contributors": null,
+  "author": {
+    "name": "Nekres",
+    "username": "Nekres.1038"
+  },
   "description": "Roll a dice, flip a coin, whatever suits your needs.",
   "dependencies": {
     "bh.blishhud": ">=0.6.0"
