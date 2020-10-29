@@ -3,15 +3,17 @@
   "name": "Quick Surrender",
   "namespace": "Nekres.Quick_Surrender_Module",
   "version": "0.1.2",
-  "author": {
-    "name": "Nekres",
-    "username": "Nekres.1038"
-  },
+  "contributors": [
+    {
+      "username": "Nekres.1038",
+      "name": "Nekres"
+    }
+  ],
   "description": "Allows to abandon all hope and defeat your character for when you are so done with everything.\n\nUsable only in raids or fractals.",
   "dependencies": {
-    "bh.blishhud": ">=0.6.0"
+    "bh.blishhud": ">=0.7.0"
   },
   "url": "https://github.com/blish-hud/",
   "location": "https://github.com/TybaIt/Blish-HUD-Modules/releases/download/29%2F10%2F2020/Quick.Surrender.bhm",
-  "hash": "4A4ABABF10AFE3750F3406CAD15A06248EA69FA8653DBB2B09F4AB1DA0437CCD"
+  "hash": "7B4C22C457AEE099F99919A65D5279C09CC7ACED12993B8070DDFD82C526F32F"
 }
