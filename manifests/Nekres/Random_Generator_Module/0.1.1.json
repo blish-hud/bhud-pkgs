@@ -1,0 +1,14 @@
+{
+  "manifest_version": "1",
+  "name": "Random Generator",
+  "namespace": "Nekres.Random_Generator_Module",
+  "version": "0.1.1",
+  "contributors": null,
+  "description": "Roll a dice, flip a coin, whatever suits your needs.",
+  "dependencies": {
+    "bh.blishhud": ">=0.6.0"
+  },
+  "url": "https://github.com/blish-hud/Community-Module-Pack",
+  "location": "https://github.com/TybaIt/Blish-HUD-Modules/releases/download/29%2F10%2F2020/Random.Generator.bhm",
+  "hash": "0A32C9EE2472CD0390DC5C66383B8AD7B1B2684F74570B3FB1B03CC00BF68D91"
+}
