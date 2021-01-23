@@ -9,11 +9,11 @@
       "name": "Nekres"
     }
   ],
-  "description": "Shows real time mumble link data and computer.\nHold [Left Control] to show unformatted values.\nUse [Left Click] to copy infos.",
+  "description": "Shows real time mumble link data.\nHold [Left Control] to show unformatted values.\nUse [Left Click] to copy infos.",
   "dependencies": {
     "bh.blishhud": ">=0.7.0"
   },
   "url": "https://github.com/blish-hud/",
   "location": "https://github.com/TybaIt/Blish-HUD-Modules/releases/download/23%2F01%2F2021/Mumble.Info.bhm",
-  "hash": "9334CB72C0AB8DC25B910D3C4B75F387FFA1B3C582AAAE05B7258155EF5BDFEA"
+  "hash": "F7CB338E105839AB89F94438AEBFF6EAE070C6CEFDEAAB33B8A6FD13B62F50C7"
 }
