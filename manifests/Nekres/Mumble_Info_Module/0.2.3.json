@@ -5,8 +5,8 @@
   "version": "0.2.3",
   "contributors": [
     {
-      "name": "Nekres",
-      "username": "Nekres.1038"
+      "username": "Nekres.1038",
+      "name": "Nekres"
     }
   ],
   "description": "Shows real time mumble link data.\nHold [Left Control] to show unformatted values.\nUse [Left Click] to copy infos.",
@@ -15,5 +15,5 @@
   },
   "url": "https://github.com/blish-hud/",
   "location": "https://github.com/TybaIt/Blish-HUD-Modules/releases/download/23%2F01%2F2021/Mumble.Info.bhm",
-  "hash": "8A1DBE94E77A1D55F4B4C65F641EF8417436AF3C4E1570A57B60F16FA76B8CE8"
+  "hash": "7908844F64835E98B6226C36EF9C045825B860967550AD38BE02288D835FD129"
 }
