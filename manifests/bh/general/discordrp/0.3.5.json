@@ -2,7 +2,7 @@
   "manifest_version": "1",
   "name": "Discord Rich Presence",
   "namespace": "bh.general.discordrp",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "contributors": [
     {
       "name": "Freesnöw",
@@ -15,6 +15,6 @@
     "bh.blishhud": ">=0.5.0"
   },
   "url": "https://github.com/blish-hud/Blish-HUD",
-  "location": "https://ci.appveyor.com/api/buildjobs/973i00am9omm4jrj/artifacts/Discord%20Rich%20Presence.bhm",
-  "hash": "4FFDC2A70F9A550FA9C6CE8720CA157D27336FB203AF4B4E3078DBACFDFDFB2B"
+  "location": "https://github.com/blish-hud/Community-Module-Pack/releases/download/20210216/Discord.Rich.Presence.bhm",
+  "hash": "9254FFDD7A292FC2DDE136CB888C7A2B03B585D510D021A1C7D823B75D658003"
 }
