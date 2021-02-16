@@ -15,6 +15,6 @@
     "bh.blishhud": ">=0.5.0"
   },
   "url": "https://github.com/blish-hud/Blish-HUD",
-  "location": "https://ci.appveyor.com/api/buildjobs/973i00am9omm4jrj/artifacts/Events.bhm",
-  "hash": "E37D2FC19AF8ECF95558968BDA836FFBBBDBC01DAC287C73A546E6DE553752EE"
+  "location": "https://github.com/blish-hud/Community-Module-Pack/releases/download/20210216/Events.bhm",
+  "hash": "3A1128480DE33FAC75FA326C1F6BF42B475B1DC4C4A5D233AA3108A3B80D4493"
 }

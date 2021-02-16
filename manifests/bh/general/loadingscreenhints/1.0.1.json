@@ -2,16 +2,17 @@
   "manifest_version": "1",
   "name": "Loading Screen Hints",
   "namespace": "bh.general.loadingscreenhints",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "contributors": [
     {
-      "name": "Andy",
-      "username": "Nekres.1038"
+      "name": "Freesnöw",
+      "username": "LandersXanders.1235",
+      "url": "https://github.com/dlamkins"
     }
   ],
   "description": "Shows tips, Tyrian knowledge, narrations, and character quizzes during the loading screen.",
   "dependencies": null,
   "url": "https://github.com/blish-hud/Blish-HUD",
-  "location": "https://ci.appveyor.com/api/buildjobs/973i00am9omm4jrj/artifacts/Loading%20Screen%20Hints.bhm",
-  "hash": "B3BF24AF038BB92778BF8C3EF3D4A0186A9EFC190F2B884DA2260E9B8B7B881C"
+  "location": "https://github.com/blish-hud/Community-Module-Pack/releases/download/20210216/Loading.Screen.Hints.bhm",
+  "hash": "777FDADFF2BF23034BED0F0ED3749CA038853C5B057845FC91A7A1FFF72F461F"
 }
