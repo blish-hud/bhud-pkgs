@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Mumble Info",
+  "namespace": "Nekres.Mumble_Info_Module",
+  "version": "0.2.4",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1038"
+    }
+  ],
+  "description": "Shows real time mumble link data and more.\n\nHold [Left Control] to show unformatted values.\nUse [Left Click] to copy infos.",
+  "dependencies": {
+    "bh.blishhud": ">=0.7.0"
+  },
+  "url": "https://github.com/blish-hud/",
+  "location": "https://github.com/TybaIt/Blish-HUD-Modules/releases/download/28%2F01%2F2021/Mumble.Info.bhm",
+  "hash": "47B2BE57AB7C57C317096F0C266FF6F83154D115E791BC1EC43C6A2A136AEE3F"
+}
