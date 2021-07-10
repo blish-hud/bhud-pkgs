@@ -3,7 +3,13 @@
   "name": "Events and Metas Observer",
   "namespace": "bh.general.events",
   "version": "0.7.1",
-  "contributors": null,
+  "contributors": [
+    {
+      "name": "Freesnöw",
+      "username": "LandersXanders.1235",
+      "url": "https://github.com/dlamkins"
+    }
+  ],
   "description": "Displays upcoming events and metas and gives you the option to subscribe to in-game notifications for when they're going to be starting soon.",
   "dependencies": {
     "bh.blishhud": ">=0.5.0"
