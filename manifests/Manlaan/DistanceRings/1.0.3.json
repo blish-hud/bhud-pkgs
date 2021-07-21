@@ -1,0 +1,19 @@
+{
+    "manifest_version": "1",
+    "name": "Distance Rings",
+    "namespace": "DistanceRings",
+    "version": "1.0.3",
+    "contributors": [
+        {
+            "name": "Manlaan",
+            "username": "manlaan.8921"
+        }
+    ],
+    "description": "Display Distance Rings",
+    "dependencies": {
+        "bh.blishhud": ">=0.10.0"
+    },
+    "url": "https://github.com/manlaan/Blishhud-DistanceRings",
+    "location": "https://github.com/manlaan/Blishhud-DistanceRings/releases/download/1.0.3/DistanceRings.bhm",
+    "hash": "E2B85DCBCC30338851628FB722CF167B57B8E13E988F305FA477C11DDD1A0ADD"
+}
