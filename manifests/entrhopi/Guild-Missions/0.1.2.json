@@ -1,7 +1,7 @@
 {
   "name": "Guild Missions",
   "version": "0.1.2",
-  "namespace": "Guild_Missions",
+  "namespace": "entrhopi.Guild_Missions",
   "package": "Guild-Missions.dll",
   "manifest_version": 1,
 
@@ -11,7 +11,7 @@
   },
   "url": "https://github.com/EntRhoPi/Blish-HUD-Guild-Missions",
   "location": "https://github.com/EntRhoPi/Blish-HUD-Guild-Missions/releases/download/v0.1.2/Guild-Missions.bhm",
-  "hash": "9F0CBA44E861780755AC51A3318D68BDF9345DFEB3F1EDB024FABA1820E5AFFA",
+  "hash": "1188FBAA6D35EC52E2337A65F2DBADA1EACA8E31B9861A6C6DC24C9339142A21",
   "contributors": [
     {
       "name": "entrhopi",
