@@ -1,0 +1,19 @@
+{
+    "manifest_version": "1",
+    "name": "Clock",
+    "namespace": "Manlaan.Clock",
+    "version": "1.0.4",
+    "contributors": [
+        {
+            "name": "Manlaan",
+            "username": "manlaan.8921"
+        }
+    ],
+    "description": "Clock for Local, Tyria, and Server time.",
+    "dependencies": {
+        "bh.blishhud": ">=0.7.0"
+    },
+    "url": "https://github.com/manlaan/BlishHud-Clock",
+    "location": "https://github.com/manlaan/BlishHud-Clock/releases/download/1.0.4/Clock.bhm",
+    "hash": "AF24BBD63D58B0077BF5B541DD5F626CFDD8BC0D855F3FC19FDDFA90DEB9330B"
+}
