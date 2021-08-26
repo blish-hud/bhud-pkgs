@@ -1,8 +1,8 @@
 {
     "manifest_version": "1",
     "name": "HP Grids",
-    "namespace": "HPGrid",
-    "version": "1.0.2",
+    "namespace": "Manlaan.HPGrid",
+    "version": "1.0.4",
     "contributors": [
         {
             "name": "Manlaan",
@@ -14,6 +14,6 @@
         "bh.blishhud": ">=0.7.0"
     },
     "url": "https://github.com/manlaan/BlishHud-HPGrid",
-    "location": "https://github.com/manlaan/BlishHud-HPGrid/releases/download/1.0.2/HPGrid.bhm",
-    "hash": "9839B1FF45691DDE661D4D0B5853FC8A210570D62338151E75C82F0A70397AD2"
+    "location": "https://github.com/manlaan/BlishHud-HPGrid/releases/download/1.0.4/HPGrid.bhm",
+    "hash": "890014E5380ECE0D56D7C1AADCDE77FD86FA3C2629F4323DA31FB0B0E1A87C37"
 }

@@ -1,0 +1,19 @@
+{
+    "manifest_version": "1",
+    "name": "Commander Markers",
+    "namespace": "Manlaan.CommanderMarkers",
+    "version": "1.0.0",
+    "contributors": [
+        {
+            "name": "Manlaan",
+            "username": "manlaan.8921"
+        }
+    ],
+    "description": "Place commander markers",
+    "dependencies": {
+        "bh.blishhud": ">=0.7.0"
+    },
+    "url": "https://github.com/manlaan/BlishHud-CommanderMarkers",
+    "location": "https://github.com/manlaan/BlishHud-CommanderMarkers/releases/download/1.0.0/CommanderMarkers.bhm",
+    "hash": "90909F39D0A497FC401BD6A8E7B650A47E39F47B2B16BDF3D20AC26D6D9DA203"
+}

@@ -1,8 +1,8 @@
 {
     "manifest_version": "1",
     "name": "Mouse Cursor",
-    "namespace": "MouseCursor",
-    "version": "1.0.3",
+    "namespace": "Manlaan.MouseCursor",
+    "version": "1.0.4",
     "contributors": [
         {
             "name": "Manlaan",
@@ -18,6 +18,6 @@
         "bh.blishhud": ">=0.7.0"
     },
     "url": "https://github.com/manlaan/BlishHud-MouseCursor",
-    "location": "https://github.com/manlaan/BlishHud-MouseCursor/releases/download/1.0.3/MouseCursor.bhm",
-    "hash": "C8F654F7BA05A4E3F3C363E761A0E4D70ACBE94275AD67A0F6F81BF4543EB6B1"
+    "location": "https://github.com/manlaan/BlishHud-MouseCursor/releases/download/1.0.4/MouseCursor.bhm",
+    "hash": "1A838C618ECB4D860579BDBBCA623C90FD7B709BED45ACB6DC91D9D7ECD45F9A"
 }
