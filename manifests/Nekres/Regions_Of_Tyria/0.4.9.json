@@ -5,8 +5,8 @@
   "version": "0.4.9",
   "contributors": [
     {
-      "name": "Nekres",
-      "username": "Nekres.1038"
+      "username": "Nekres.1038",
+      "name": "Nekres"
     }
   ],
   "description": "Fades in the names of places you enter.",
@@ -15,5 +15,5 @@
   },
   "url": "https://github.com/blish-hud/",
   "location": "https://github.com/agaertner/Blish-HUD-Modules/releases/download/30%2F08%2F2021/Regions.Of.Tyria.bhm",
-  "hash": "2E06E64DDC430348B1449E5ADBD6C9381FED571FC30443DB720E9CB3BC6DA64F"
+  "hash": "9F6F1A1BFE026FC457A58E454041E4AFFDF947838D1E53A9A02C91720AAC46AA"
 }
