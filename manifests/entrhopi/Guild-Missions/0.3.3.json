@@ -1,0 +1,21 @@
+{
+  "name": "Guild Missions",
+  "version": "0.3.3",
+  "namespace": "entrhopi.Guild_Missions",
+  "package": "Guild-Missions.dll",
+  "manifest_version": 1,
+
+  "description": "Helps with guild trek missions and hopefully other guild things in the future.",
+  "dependencies": {
+    "bh.blishhud": ">=0.8.0"
+  },
+  "url": "https://github.com/EntRhoPi/Blish-HUD-Guild-Missions",
+  "location": "https://github.com/EntRhoPi/Blish-HUD-Guild-Missions/releases/download/v0.3.3/Guild-Missions.bhm",
+  "hash": "A75EB4D8204177BA7B1178B539043F93E5811822D175A791B9C6D728CBD7BE3C",
+  "contributors": [
+    {
+      "name": "entrhopi",
+      "username": "acplusm.9085"
+    }
+  ]
+}
