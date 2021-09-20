@@ -1,0 +1,23 @@
+{
+    "manifest_version": "1",
+    "name": "Mouse Cursor",
+    "namespace": "Manlaan.MouseCursor",
+    "version": "2.1.3",
+    "contributors": [
+        {
+            "name": "Manlaan",
+            "username": "manlaan.8921"
+        },
+        {
+            "name": "Nekres",
+            "username": "Nekres.1038"
+        }
+    ],
+    "description": "Displays a custom image under your mouse pointer.",
+    "dependencies": {
+        "bh.blishhud": ">=0.10.0"
+    },
+    "url": "https://github.com/manlaan/BlishHud-MouseCursor",
+    "location": "https://github.com/manlaan/BlishHud-MouseCursor/releases/download/2.1.3/MouseCursor.bhm",
+    "hash": "52C3AD01585118267189A666EA87514D9B1D1B3CF3EBEBBA03BC0E004193CA52"
+}
