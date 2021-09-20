@@ -11,7 +11,9 @@
     }
   ],
   "description": "Adds support for reading TacO style marker packs. Also adds support for new behavior attributes in the marker pack XML format allowing for more advanced features and abilities.\n\nWhen this module is enabled, a new folder called 'markers' will be created under your '...\\Documents\\Guild Wars 2\\addons\\blish hud\\markers'.  Drag and drop your marker packs into this folder to make them available to Blish HUD.",
-  "dependencies": null,
+  "dependencies": {
+    "bh.blishhud": "<0.8"
+  },
   "url": "https://github.com/blish-hud/Blish-HUD",
   "location": "https://github.com/blish-hud/Community-Module-Pack/releases/download/20210216/Markers.and.Paths.bhm",
   "hash": "F3DF2A5266C44D1592E58D06BC19E1E5F126EB2EBE735542BCFA583FF53501A7"
