@@ -2,7 +2,7 @@
   "manifest_version": "1",
   "name": "Stream Out",
   "namespace": "Nekres.Stream_Out",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "contributors": [
     {
       "name": "Nekres",
@@ -15,5 +15,5 @@
   },
   "url": "https://github.com/agaertner/Blish-HUD-Modules",
   "location": "https://github.com/agaertner/Blish-HUD-Modules/releases/download/28%2F09%2F2021/Stream.Out.bhm",
-  "hash": "D53150121F5BC6581226ABEE5F0DA6700163F3A93B5004CEE403027934D5DA35"
+  "hash": "B38D5629D6E15ABD39B61620C6E265921F2F3E0A5A6DE63B36891C7FC44235E4"
 }
