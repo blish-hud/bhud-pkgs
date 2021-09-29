@@ -5,8 +5,8 @@
   "version": "0.4.1",
   "contributors": [
     {
-      "username": "Nekres.1038",
-      "name": "Nekres"
+      "name": "Nekres",
+      "username": "Nekres.1038"
     }
   ],
   "description": "Outputs current game information so that it can be used as a scene component source in broadcasting software which monitor specified output for changes.\n\nThe output will be generated in \"<Path-To-Your-Blish-HUD-Settings-Folder>\\stream_out\\\"\n(eg. \"..\\Documents\\Guild Wars 2\\addons\\blishhud\\stream_out\\\").",
@@ -15,5 +15,5 @@
   },
   "url": "https://github.com/agaertner/Blish-HUD-Modules",
   "location": "https://github.com/agaertner/Blish-HUD-Modules/releases/download/29%2F09%2F2021/Stream.Out.bhm",
-  "hash": "667AC375E341AC9C5D6A493D5AD8564211A6D19A15C9B8B8D31B042BF8AEB591"
+  "hash": "6941B5D6DA1F86B43584A2BF5EF8247867AE7B3F12F8A6797EB9660DCF885E47"
 }
