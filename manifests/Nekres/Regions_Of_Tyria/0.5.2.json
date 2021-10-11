@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Regions of Tyria",
+  "namespace": "Nekres.Regions_Of_Tyria",
+  "version": "0.5.2",
+  "contributors": [
+    {
+      "username": "Nekres.1038",
+      "name": "Nekres"
+    }
+  ],
+  "description": "Fades in the names of places you enter.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.0"
+  },
+  "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
+  "location": "https://github.com/agaertner/Blish-HUD-Modules-Releases/releases/download/bh.blishhud%3E%3D0.11.0/Regions.Of.Tyria.v0.5.2.bhm",
+  "hash": "AAF83CCF1E21B5697A633A0B174E9D7A1E0B9423F239E665F94C401A88FDEB64"
+}
