@@ -5,15 +5,15 @@
   "version": "0.5.1",
   "contributors": [
     {
-      "name": "Nekres",
-      "username": "TypoTiger.8352"
+      "username": "TypoTiger.8352",
+      "name": "Nekres"
     }
   ],
-  "description": "Outputs current game information so that it can be used as a dynamic source in broadcasting software that has\nfile monitoring capabilities.\nA guild's Message of the Day can contain text enclosed in [public]text here[/public] to signal this module permission to export it.\nIf the [public] region is not found or set incorrectly the 'guild_motd.txt' will not contain any text.\nSimilarly, other exported text and image files will also be cleared to reflect specific toggles and changes (eg. not representing a guild will clear 'guild_emblem.png', not commanding a squad will clear commander_icon.png,\nand so on).",
+  "description": "Outputs current game information so that it can be used as a dynamic source in broadcasting software that has\nfile monitoring capabilities.\nA guild's Message of the Day can contain text enclosed in [public]text here[/public] to signal this module permission to export it.\nIf the [public] region is not found or set incorrectly the 'guild_motd.txt' will not contain any text.\nSimilarly, other exported text and image files will also be cleared to reflect specific toggles and changes (eg. not representing a guild will clear 'guild_emblem.png', not commanding a squad will clear 'commander_icon.png',\nand so on).",
   "dependencies": {
     "bh.blishhud": ">=0.11.1-ci.64"
   },
   "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
   "location": "https://github.com/agaertner/Blish-HUD-Modules-Releases/releases/download/bh.blishhud%3E%3D0.11.1-ci.64/Stream.Out.v0.5.1.bhm",
-  "hash": "602E1755931BFCCD3B72A0CE67B2A15D71CD54603DF231C636C818B093209B85"
+  "hash": "9C09294A277C3888A4845C782B49CC732ACA80694D76D3138A51223FFB8F8E0D"
 }
