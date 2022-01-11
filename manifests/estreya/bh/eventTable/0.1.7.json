@@ -2,7 +2,7 @@
   "manifest_version": "1",
   "name": "Event Table",
   "namespace": "estreya.bh.eventTable",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "contributors": [
     {
       "name": "Estreya",
@@ -15,6 +15,6 @@
     "bh.blishhud": ">=0.11.2"
   },
   "url": "https://github.com/Tharylia/Blish-HUD-Module-Releases",
-  "location": "https://github.com/Tharylia/Blish-HUD-Module-Releases/releases/download/event-table-v0.1.6/Estreya.BlishHUD.EventTable_0.1.6.bhm",
-  "hash": "AD962C707E23D1B0CC1A3C185EA3036577EB935F0F70BF86E38E7A63CBE0E774"
+  "location": "https://github.com/Tharylia/Blish-HUD-Module-Releases/releases/download/event-table-v0.1.7/Estreya.BlishHUD.EventTable_0.1.7.bhm",
+  "hash": "DB9B5D3471FF3D5A7D198C439C9E20349B4C60370122F95AD195DE8D20C9EAFD"
 }
