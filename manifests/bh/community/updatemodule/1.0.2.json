@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Update Blish HUD",
+  "namespace": "bh.community.updatemodule",
+  "version": "1.0.2",
+  "contributors": [
+    {
+      "name": "Freesnow",
+      "username": "LandersXanders.1235",
+      "url": "https://github.com/dlamkins"
+    }
+  ],
+  "description": "Quickly update to the latest version of Blish HUD.  Enabling the module will begin the update process.",
+  "dependencies": {
+    "bh.blishhud": "<0.11.4"
+  },
+  "url": "https://github.com/Blish-HUD/UpdateModule",
+  "location": "https://github.com/blish-hud/UpdateModule/releases/download/v1.0.2/UpdateModule-v1.0.2.bhm",
+  "hash": "B5B0CF8814BDBB45EB722D85B3163F4C3ECF82EFE85C40DD3F7141068913F1A6"
+}
