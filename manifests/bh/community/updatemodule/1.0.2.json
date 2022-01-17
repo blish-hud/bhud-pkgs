@@ -12,7 +12,7 @@
   ],
   "description": "Quickly update to the latest version of Blish HUD.  Enabling the module will begin the update process.",
   "dependencies": {
-    "bh.blishhud": ">=0.5.2"
+    "bh.blishhud": "<0.11.4"
   },
   "url": "https://github.com/Blish-HUD/UpdateModule",
   "location": "https://github.com/blish-hud/UpdateModule/releases/download/v1.0.2/UpdateModule-v1.0.2.bhm",
