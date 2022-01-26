@@ -3,10 +3,12 @@
   "name": "Blishpad",
   "namespace": "Snaid1.Blishpad",
   "version": "0.1.2",
-  "author": {
-    "name": "Snaid1",
-    "url": "https://github.com/Snaid1"
-  },
+  "contributors": [
+    {
+      "url": "https://github.com/Snaid1",
+      "name": "Snaid1"
+    }
+  ],
   "description": "A small module for taking and keeping notes",
   "dependencies": {
     "bh.blishhud": ">=0.11.4"
