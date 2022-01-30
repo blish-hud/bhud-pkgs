@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Regions of Tyria",
+  "namespace": "Nekres.Regions_Of_Tyria",
+  "version": "0.5.5",
+  "contributors": [
+    {
+      "username": "TypoTiger.8352",
+      "name": "Nekres"
+    }
+  ],
+  "description": "A beautiful area notification as you walk in and out of different zones.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.1-ci.64"
+  },
+  "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
+  "location": "https://github.com/agaertner/Blish-HUD-Modules-Releases/releases/download/bh.blishhud%3E%3D0.11.1-ci.64/Regions.Of.Tyria.v0.5.5.bhm",
+  "hash": "AE8F9DBF1562E234FF284EDE95CB323B49D80D9DCFF1879C1204C97B34DCDFDD"
+}
