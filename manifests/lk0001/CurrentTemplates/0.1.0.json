@@ -5,7 +5,8 @@
   "version": "0.1.0",
   "contributors": [
     {
-      "name": "lk0001"
+      "name": "lk0001",
+      "username": "IllusoryDream.7648"
     }
   ],
   "description": "Displays active build and equipment template names.\nWARNING: The data is read from GW2 API, so it's not always up-to-date. When you change the active template, it may take up to 5 minutes before the change is visible in the API (and in this module).",
