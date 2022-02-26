@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Notes",
+  "namespace": "Nekres.Notes",
+  "version": "0.3.5",
+  "contributors": [
+    {
+      "username": "TypoTiger.8352",
+      "name": "TypoTiger aka Nekres"
+    }
+  ],
+  "description": "Take notes. Create pages. Bind a book.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.5-ci.43"
+  },
+  "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
+  "location": "https://github.com/agaertner/Blish-HUD-Modules-Releases/releases/download/bh.blishhud%3E%3D0.11.5-ci.43/Notes.v0.3.5.bhm",
+  "hash": "208E546A37FA81A4FA895D1060A70289B553FC7E0B1F75A159043448106EED86"
+}
