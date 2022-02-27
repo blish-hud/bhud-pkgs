@@ -5,8 +5,8 @@
   "version": "0.3.7",
   "contributors": [
     {
-      "name": "TypoTiger",
-      "username": "TypoTiger.8352"
+      "username": "TypoTiger.8352",
+      "name": "TypoTiger"
     }
   ],
   "description": "Take notes. Create pages. Bind a book.",
@@ -15,5 +15,5 @@
   },
   "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
   "location": "https://github.com/agaertner/Blish-HUD-Modules-Releases/releases/download/bh.blishhud%3E%3D0.11.5-ci.43/Notes.v0.3.7.bhm",
-  "hash": "E6864D83D12ED1AF9108E18E372FDF87202FBBAD666569F53680F6F2CDBF1975"
+  "hash": "2C0BD92A22D167B6A2D5C8738ED2E49D8B8E034333E58189F55D090F58CD9A33"
 }
