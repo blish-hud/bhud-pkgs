@@ -5,15 +5,19 @@
   "version": "0.1.0",
   "contributors": [
     {
-      "username": "ArchAngelZero.8715",
-      "name": "Torlando"
+      "name": "Torlando",
+      "username": "ArchAngelZero.8715"
+    },
+    {
+      "name": "sonicolasj",
+      "username": "sonicolasj.9534"
     }
   ],
   "description": "Tracks current and former squad members, and lets you assign roles to them.",
   "dependencies": {
-    "bh.blishhud": ">=0.5.2"
+    "bh.blishhud": ">=0.11.0"
   },
   "url": "https://github.com/tcwatson/SquadTracker",
   "location": "https://github.com/tcwatson/SquadTracker/releases/download/0.1.0/SquadTracker.bhm",
-  "hash": "038455EA90961108933586F9029EB0BD0B618DB6439673BBA4EFC73E3BB23D1B"
+  "hash": "5E90D0C5B2179797DE775E7427DCD1B7AA12AA377B0004FB2FCB79DC32035764"
 }
