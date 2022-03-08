@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1",
+  "name": "Squad Tracker",
+  "namespace": "Torlando.SquadTracker",
+  "version": "0.1.2",
+  "contributors": [
+    {
+      "name": "Torlando",
+      "username": "ArchAngelZero.8715"
+    },
+    {
+      "name": "sonicolasj",
+      "username": "sonicolasj.9534"
+    }
+  ],
+  "description": "Tracks current and former squad members, and lets you assign roles to them.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.0"
+  },
+  "url": "https://github.com/tcwatson/SquadTracker",
+  "location": "https://github.com/tcwatson/SquadTracker/releases/download/v0.1.2/SquadTracker.bhm",
+  "hash": "EF4874ED6183FD65E865A02B5B430AC3E997E471584466BCB5CA45F29146CD6D"
+}
