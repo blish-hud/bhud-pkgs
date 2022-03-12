@@ -9,9 +9,9 @@
             "username": "manlaan.8921"
         }
     ],
-    "description": "Clock for Local, Tyria, and Server time.\n\nFor Pre-Release 0.10.0-156+",
+    "description": "Clock for Local, Tyria, and Server time.",
     "dependencies": {
-        "bh.blishhud": ">=0.11.0"
+        "bh.blishhud": ">=0.10.0"
     },
     "url": "https://github.com/manlaan/BlishHud-Clock",
     "location": "https://github.com/manlaan/BlishHud-Clock/releases/download/1.1.0/Clock.bhm",
