@@ -1,0 +1,14 @@
+{
+  "manifest_version": "1",
+  "name": "Blishpad",
+  "namespace": "Snaid1.Blishpad",
+  "version": "1.0.1",
+  "contributors": null,
+  "description": "A module for taking and keeping notes you want to quickly reference.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/Snaid1/BHUD-Blishpad",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/snaid1.blishpad_v1.0.1/Snaid1.Blishpad-1.0.1.bhm",
+  "hash": "0A7A9754422ABA565731F331A6D33FC3987AD32D84DCDE0F4A1A4B918D317D74"
+}
