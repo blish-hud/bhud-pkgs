@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Commander's Quire (Journal)",
+  "namespace": "Nekres.Notes",
+  "version": "0.4.3",
+  "contributors": [
+    {
+      "name": "TypoTiger",
+      "username": "TypoTiger.8352"
+    }
+  ],
+  "description": "Take notes. Create pages. Bind your book.\nImmortalize your legacy through immersive journaling.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.5-ci.68"
+  },
+  "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
+  "location": "https://github.com/agaertner/Blish-HUD-Modules-Releases/releases/download/bh.blishhud%3E%3D0.11.5-ci.68/Commanders.Quire.v0.4.3.bhm",
+  "hash": "99FE3682FF364CB33CB310BADC147288B741C4919328EAE3FA96AE5886A326EA"
+}
