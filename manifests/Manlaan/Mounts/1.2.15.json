@@ -1,0 +1,23 @@
+{
+    "manifest_version": "1",
+    "name": "Mounts",
+    "namespace": "Manlaan.Mounts",
+    "version": "1.2.15",
+    "contributors": [
+        {
+            "name": "Manlaan",
+            "username": "manlaan.8921"
+        },
+        {
+            "name": "bennieboj",
+            "username": "bennieboj"
+        }
+    ],
+    "description": "Mount icons",
+    "dependencies": {
+        "bh.blishhud": ">=0.11.6"
+    },
+    "url": "https://github.com/manlaan/BlishHud-Mounts",
+    "location": "https://github.com/manlaan/BlishHud-Mounts/releases/download/1.2.15/Mounts.bhm",
+    "hash": "FD67A63E74CC1F82AED408C384EFC869B6660A4F2E34DA60214997F837E0A786"
+}
