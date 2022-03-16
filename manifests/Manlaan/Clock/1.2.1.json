@@ -2,7 +2,7 @@
     "manifest_version": "1",
     "name": "Clock",
     "namespace": "Manlaan.Clock",
-    "version": "1.1.2",
+    "version": "1.2.1",
     "contributors": [
         {
             "name": "Manlaan",
@@ -17,6 +17,6 @@
         "bh.blishhud": ">=0.11.6"
     },
     "url": "https://github.com/manlaan/BlishHud-Clock",
-    "location": "https://github.com/manlaan/BlishHud-Clock/releases/download/1.1.2/Clock.bhm",
-    "hash": "9629A9137E4023AB19ABCFFD585ACCC03241F1E254D49ECA008C1D64CDC74477"
+    "location": "https://github.com/manlaan/BlishHud-Clock/releases/download/1.2.1/Clock.bhm",
+    "hash": "AC904D20D059BC5A112B69D9EAAAB8CD41D5B60F033DE630BCC0B89E2F78E7BC"
 }
