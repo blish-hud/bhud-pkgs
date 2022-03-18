@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Blishpad",
+  "namespace": "Snaid1.Blishpad",
+  "version": "1.1.1",
+  "contributors": [
+    {
+      "url": "https://github.com/Snaid1",
+      "username": "Snaid.9714",
+      "name": "Snaid1"
+    }
+  ],
+  "description": "A module for taking and keeping notes you want to quickly reference.\nNew This Release:\n- Double clicking a chat code copies it to clipboard\n- More font size options\n- Icon right click toggles Post-it by default\n- Better error reporting if notes files aren't accessible",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/Snaid1/BHUD-Blishpad",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/snaid1.blishpad_v1.1.1/Snaid1.Blishpad-1.1.1.bhm",
+  "hash": "05AFEF0FBEC7F5A65CBF602C279111EFE46A35C503B9A261D2F646FBEC7B5412"
+}
