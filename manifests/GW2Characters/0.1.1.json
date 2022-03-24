@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "GW2Characters",
+  "namespace": "GW2Characters",
+  "version": "0.1.1",
+  "contributors": [
+    {
+      "name": "Kenedia",
+      "url": "https://github.com/KenediaDev"
+    }
+  ],
+  "description": "A tool to easily switch characters even with a lot of them!\nThis will require an API-Key with permissions at least for the 'characters' endpoint!",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/gw2characters_v0.1.1/GW2Characters-0.1.1.bhm",
+  "hash": "10A3DF37C6DEF03B29D831EA0D2EC577C9B25FE593CEAFD94F48E2FE54E29C50"
+}
