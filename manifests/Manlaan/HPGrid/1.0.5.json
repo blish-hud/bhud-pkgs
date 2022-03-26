@@ -1,0 +1,19 @@
+{
+    "manifest_version": "1",
+    "name": "HP Grids",
+    "namespace": "Manlaan.HPGrid",
+    "version": "1.0.5",
+    "contributors": [
+        {
+            "name": "Manlaan",
+            "username": "manlaan.8921"
+        }
+    ],
+    "description": "Displays grid over HP bar\n\nOriginal HPGrid.xml file from QuitarHero's Marker Pack https://github.com/QuitarHero/Heros-Marker-Pack",
+    "dependencies": {
+        "bh.blishhud": ">=0.11.6"
+    },
+    "url": "https://github.com/manlaan/BlishHud-HPGrid",
+    "location": "https://github.com/manlaan/BlishHud-HPGrid/releases/download/1.0.5/HPGrid.bhm",
+    "hash": "80307BA9B17CFBC8B0D664139498947A36465C39379A0E6FF565C812C7CC228B"
+}
