@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Characters",
+  "namespace": "Kenedia.Modules.Characters",
+  "version": "0.1.8",
+  "contributors": [
+    {
+      "name": "Kenedia",
+      "url": "https://github.com/KenediaDev"
+    }
+  ],
+  "description": "A tool to easily switch characters even with a lot of them!\nThis will require an API-Key with permissions at least for the 'characters' endpoint!",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.characters_v0.1.8/Kenedia.Modules.Characters-0.1.8.bhm",
+  "hash": "35597853640853617F7ED3CF02F7678023FD45C58CA0A44787FC8723F905ABBF"
+}
