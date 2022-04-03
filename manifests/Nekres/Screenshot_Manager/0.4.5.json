@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Screenshot Manager",
+  "namespace": "Nekres.Screenshot_Manager",
+  "version": "0.4.5",
+  "contributors": [
+    {
+      "username": "TypoTiger.8352",
+      "name": "TypoTiger"
+    }
+  ],
+  "description": "View and manage your Guild Wars 2 screenshots.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.screenshot_manager_v0.4.5/Nekres.Screenshot_Manager-0.4.5.bhm",
+  "hash": "7EE1947A2663B6FB0D4346FD8F317B1284412C0A5F3F4E4774DAF03E2D2A6E4C"
+}
