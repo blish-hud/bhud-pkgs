@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Mistwar",
+  "namespace": "Nekres.Mistwar",
+  "version": "0.4.5",
+  "contributors": [
+    {
+      "name": "TypoTiger",
+      "username": "TypoTiger.8352"
+    }
+  ],
+  "description": "A tactical map for World VS. World to track objectives, their timers and territory control.\n\nNote: A borderland map will be downloaded the very first time you join it with the module enabled.\nAn image file of a map can be up to 23,2MB in size (eg. Desert Borderlands).\nIt will be saved on your hard disk in a registered module folder under your Blish HUD settings directory for future usage.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.mistwar_v0.4.5/Nekres.Mistwar-0.4.5.bhm",
+  "hash": "FB920C4852343FCC4D37C54F8B49291CE4BB18B1C1D1E9D628AA019D724EE4FC"
+}
