@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1",
+  "name": "FishingBuddy",
+  "namespace": "Eclipse1807.BlishHUD.FishingBuddy",
+  "version": "1.0.3",
+  "contributors": [
+    {
+      "name": "Eclipse.1807",
+      "url": "https://github.com/EclipseTech/FishingBuddy.git",
+      "username": "Eclipse.1807"
+    },
+    {
+      "username": "Foe Fox.4671",
+      "name": "Foe Fox.4671"
+    }
+  ],
+  "description": "Display fishing info: time of day, list of catchable fish in the zone. Currently no way to display equipped bait & lure :(",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.4"
+  },
+  "url": "https://github.com/EclipseTech/FishingBuddy/releases",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/eclipse1807.blishhud.fishingbuddy_v1.0.3/Eclipse1807.BlishHUD.FishingBuddy-1.0.3.bhm",
+  "hash": "40C1363480BEAF11CF9BBB3173F8678DD9CBB6799E6300A1545A04A8770C9CD1"
+}
