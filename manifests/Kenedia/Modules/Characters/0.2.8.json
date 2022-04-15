@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Characters",
+  "namespace": "Kenedia.Modules.Characters",
+  "version": "0.2.8",
+  "contributors": [
+    {
+      "url": "https://github.com/KenediaDev",
+      "name": "Kenedia"
+    }
+  ],
+  "description": "A tool to easily switch characters even with a lot of them!\nDISCLAIMER: Guild Wars 2 has randomly issues with sorting your characters if you log into them only for a short time. This will mess with this module, there is nothing that can be done about it sadly. Once the API updates the character list they will get sorted again!",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/KenediaDev/Characters.git",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.characters_v0.2.8/Kenedia.Modules.Characters-0.2.8.bhm",
+  "hash": "6A0F544EEADAABCC72698A05B4701A270850FF635B95BDD801B068B7D32A2F9B"
+}
