@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Gathering Tools",
+  "namespace": "ecksofa.gatheringtools",
+  "version": "1.0.1",
+  "contributors": [
+    {
+      "url": "https://github.com/Taschenbuch",
+      "name": "Ecksofa"
+    }
+  ],
+  "description": "Check which character has the unlimited gathering tools equipped.\nWARNING: The search result can be older than 5 minutes because of API delays.\nShow a reminder when pressing the logout key (default: F12) to not forget putting unlimited tools into shared inventory slots. For this to work make sure the logout key in the module settings matches the logout key in Guild Wars 2.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/Taschenbuch/BlishHud-GatheringTools",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/ecksofa.gatheringtools_v1.0.1/ecksofa.gatheringtools-1.0.1.bhm",
+  "hash": "B63862BA4E26E3372C8157C48FCE7C0238F92049BCF6E95483661DBC23F4A0F1"
+}
