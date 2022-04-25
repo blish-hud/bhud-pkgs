@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Musician",
+  "namespace": "Nekres.Musician_Module",
+  "version": "0.8.0",
+  "contributors": [
+    {
+      "username": "Nekres.1943",
+      "name": "Nekres"
+    }
+  ],
+  "description": "Create, share and play sheet music.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/blish-hud/",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.musician_module_v0.8.0/Nekres.Musician_Module-0.8.0.bhm",
+  "hash": "DF9105127645310AE8C1AFE5CF65A3A401814ADD1BDB67AF8CDE8863C25A187D"
+}
