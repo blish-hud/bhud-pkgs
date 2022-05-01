@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Minstrel Protocol",
+  "namespace": "Nekres.Musician_Module",
+  "version": "0.8.2",
+  "contributors": [
+    {
+      "username": "Nekres.1943",
+      "name": "Nekres"
+    }
+  ],
+  "description": "Create, share and play sheet music.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/blish-hud/",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.musician_module_v0.8.2/Nekres.Musician_Module-0.8.2.bhm",
+  "hash": "CEBBE912233E67BD1AF5A9D2ADBD74718C4EA3A2ECE5EF8DAE9EFF473CC17F55"
+}
