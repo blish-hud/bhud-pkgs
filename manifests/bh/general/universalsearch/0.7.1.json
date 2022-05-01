@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1",
+  "name": "Universal Search",
+  "namespace": "bh.general.universalsearch",
+  "version": "0.7.1",
+  "contributors": [
+    {
+      "username": "LandersXanders.1235",
+      "name": "Freesnöw"
+    },
+    {
+      "name": "Denrage",
+      "url": "https://github.com/Denrage",
+      "username": "honky.3864"
+    }
+  ],
+  "description": "Allows you to search for in game landmarks (waypoints, POIs, vistas, etc.), skills and traits and copy the chat codes into your clipboard or directly into the ingame chat.",
+  "dependencies": {
+    "bh.blishhud": ">=0.10.0"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.general.universalsearch_v0.7.1/bh.general.universalsearch-0.7.1.bhm",
+  "hash": "B023EB56EFC75C354ADF86110D17D3E6CF110DD1BCE6758758156542B9055118"
+}
