@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1",
+  "name": "Gathering Tools",
+  "namespace": "ecksofa.gatheringtools",
+  "version": "1.1.3",
+  "contributors": [
+    {
+      "name": "Ecksofa",
+      "url": "https://github.com/Taschenbuch"
+    },
+    {
+      "name": "maanlichtje"
+    }
+  ],
+  "description": "Search for (unlimited) gathering tools in your bank, shared inventory slots, character inventories or which character has which gathering tools equipped.\nWARNING: The search result can be older than 5 minutes because of API delays.\nIt cannot show how many uses a limited gathering tool has left because the API does not offer this information.\nShow a reminder when pressing the logout key (default: F12) to not forget putting unlimited tools into shared inventory slots. For this to work make sure the logout key in the module settings matches the logout key in Guild Wars 2.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/Taschenbuch/BlishHud-GatheringTools",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/ecksofa.gatheringtools_v1.1.3/ecksofa.gatheringtools-1.1.3.bhm",
+  "hash": "CAE94B22FF4B8007F830C8F2132C720D18FFEE55081692D35AEF435E781A30B7"
+}
