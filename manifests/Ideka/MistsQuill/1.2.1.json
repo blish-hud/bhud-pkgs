@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Quill of the Mists",
+  "namespace": "Ideka.MistsQuill",
+  "version": "1.2.1",
+  "contributors": [
+    {
+      "username": "Ideka.7946",
+      "name": "Ideka"
+    }
+  ],
+  "description": "Send and receive messages from other players through the mists. Try tongue but hole.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.0"
+  },
+  "url": "https://github.com/ideka/MistsQuill",
+  "location": "https://github.com/ideka/MistsQuillPublic/releases/download/v1.2.1/MistsQuill-1.2.1.bhm",
+  "hash": "548A607A1362365BA6CC410F1E01896A8C63B5B25B251771545ACF6F2EFC7FA8"
+}
