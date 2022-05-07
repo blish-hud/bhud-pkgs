@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1",
+  "name": "Fishing Buddy",
+  "namespace": "Eclipse1807.BlishHUD.FishingBuddy",
+  "version": "1.0.11",
+  "contributors": [
+    {
+      "username": "Eclipse.1807",
+      "url": "https://github.com/EclipseTech/FishingBuddy.git",
+      "name": "Eclipse.1807"
+    },
+    {
+      "name": "Foe Fox.4671",
+      "username": "Foe Fox.4671"
+    }
+  ],
+  "description": "Display fishing info: time of day, list of catchable fish in the zone. \nCurrently no way to display equipped bait & lure :( \nOnly shows fish in Zones with fishing holes & World Class/Saltwater everywhere if selected. \nView future enhancements & current bugs @ https://github.com/EclipseTech/FishingBuddy/issues",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.4"
+  },
+  "url": "https://github.com/EclipseTech/FishingBuddy/releases",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/eclipse1807.blishhud.fishingbuddy_v1.0.11/Eclipse1807.BlishHUD.FishingBuddy-1.0.11.bhm",
+  "hash": "C8B4F8B5D883AD0E4EE6239BAAF044CE23A1CC9837F37A33AC1A29E44CB8ACC4"
+}
