@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Achievement Tracker",
+  "namespace": "Denrage.AchievementTrackerModule",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Denrage"
+    }
+  ],
+  "description": "Allows to track any achievement with multiple windows and information from the official wiki.",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/Denrage/AchievementTrackerModule",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/denrage.achievementtrackermodule_v0.1.0/Denrage.AchievementTrackerModule-0.1.0.bhm",
+  "hash": "5A78C275A50E7D7718E550984851B5AAF4FA4F1B2D54B1666E78D47EF4EAB0FF"
+}
