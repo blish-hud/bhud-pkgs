@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Item Search",
+  "namespace": "pentose.itemsearch",
+  "version": "0.3.3",
+  "contributors": [
+    {
+      "url": "https://github.com/tentose",
+      "username": "Pentose.3479",
+      "name": "Pentose"
+    }
+  ],
+  "description": "Searches for items across your account",
+  "dependencies": {
+    "bh.blishhud": "~0.11.4"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/pentose.itemsearch_v0.3.3/pentose.itemsearch-0.3.3.bhm",
+  "hash": "95DAB8EF6033BBE08C2D94EEBC606494BC6FA162B25E256594DF69CC722878E4"
+}
