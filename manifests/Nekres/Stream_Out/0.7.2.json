@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Stream Out",
+  "namespace": "Nekres.Stream_Out",
+  "version": "0.7.2",
+  "contributors": [
+    {
+      "username": "Nekres.1943",
+      "name": "Nekres"
+    }
+  ],
+  "description": "Exports player account information to image and text files which can be used in OBS and other streaming software.\nSome update in real-time because they reflect your character's current state while others update every 5 minutes as they reflect data from your overall account.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.stream_out_v0.7.2/Nekres.Stream_Out-0.7.2.bhm",
+  "hash": "4FCEEC62A5E2980BF04781AA73ABDE0362E035F1284C42BF7843B662913C6BBE"
+}
