@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Zoom Out",
+  "namespace": "Kenedia.Modules.ZoomOut",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Kenedia",
+      "url": "https://github.com/KenediaDev"
+    }
+  ],
+  "description": "A Blish solution to keep your zoom at max!",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/KenediaDev/Builds-Manager.git",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.zoomout_v0.0.1/Kenedia.Modules.ZoomOut-0.0.1.bhm",
+  "hash": "0309547D5DC91C2F81BC1CB825742411BECFC6A14BAA242D02C4684A7B3B7529"
+}
