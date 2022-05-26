@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Item Destructor",
+  "namespace": "Kenedia.Modules.ItemDestructor",
+  "version": "0.0.2",
+  "contributors": [
+    {
+      "name": "Kenedia",
+      "url": "https://github.com/KenediaDev"
+    }
+  ],
+  "description": "A Blish module to make destroying items more easily!",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/KenediaDev/ItemDestructor.git",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.itemdestructor_v0.0.2/Kenedia.Modules.ItemDestructor-0.0.2.bhm",
+  "hash": "6A464F97B5DA0114FF9B806281646175CC7324D5B78F8E432D4E49819EB460DD"
+}
