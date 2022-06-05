@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Tyrian QoL",
+  "namespace": "Kenedia.Modules.QoL",
+  "version": "0.0.6",
+  "contributors": [
+    {
+      "url": "https://github.com/KenediaDev",
+      "name": "Kenedia"
+    }
+  ],
+  "description": "A collection of smaller Quality of Life features!\n\nAll UI Controls can be moved with 'ALT + Left Click & Drag'.'",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/KenediaDev/QoL.git",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.qol_v0.0.6/Kenedia.Modules.QoL-0.0.6.bhm",
+  "hash": "6710601941E5D46335C5FC11C11185EE74E28C4454C5064E60D22E44BA2E385C"
+}
