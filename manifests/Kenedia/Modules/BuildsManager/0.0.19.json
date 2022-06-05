@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Builds Manager",
+  "namespace": "Kenedia.Modules.BuildsManager",
+  "version": "0.0.19",
+  "contributors": [
+    {
+      "url": "https://github.com/KenediaDev",
+      "name": "Kenedia"
+    }
+  ],
+  "description": "A Blish approach to enhance your gameplay experience with the 'Legendary Armory' and 'Build Templates'. A must have for everyone with a lot of builds!",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/KenediaDev/Builds-Manager.git",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.buildsmanager_v0.0.19/Kenedia.Modules.BuildsManager-0.0.19.bhm",
+  "hash": "AA26F85E709D3AC16CB5523AE7E8E06FE957DAA7739AE7D6B16DD5BBBB4289A7"
+}
