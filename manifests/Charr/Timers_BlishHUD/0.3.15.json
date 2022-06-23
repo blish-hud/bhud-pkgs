@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Timers",
+  "namespace": "Charr.Timers_BlishHUD",
+  "version": "0.3.15",
+  "contributors": [
+    {
+      "name": "Charr",
+      "username": "IchigoHatake.5098"
+    }
+  ],
+  "description": "Detailed overlays for timer based mechanics.\nTimers include: Sabetha cannons, Dhuum greens, and much more.\nNever miss important raid/strike/fractal mechanics again!\n\nWhen this module is enabled, a new folder called 'timers' will be created under '...\\Documents\\Guild Wars 2\\addons\\blish hud\\timers'. Drag and drop timer files (.bhtimer) and their related assets into this folder to make them available to Blish HUD.\n\nSpecial thanks to FreeSnow, Temp, and QuitarHero",
+  "dependencies": {
+    "bh.blishhud": ">=0.10.0"
+  },
+  "url": "https://blishhud.com",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/charr.timers_blishhud_v0.3.15/Charr.Timers_BlishHUD-0.3.15.bhm",
+  "hash": "679A4C5BF992E21B7389AD687E1E17D369FA831AE6391AD6AFE43485E9A4C7C3"
+}
