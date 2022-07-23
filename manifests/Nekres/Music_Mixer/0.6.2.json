@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Music Mixer",
+  "namespace": "Nekres.Music_Mixer",
+  "version": "0.6.2",
+  "contributors": [
+    {
+      "username": "Nekres.1943",
+      "name": "Nekres"
+    }
+  ],
+  "description": "Customize the soundtrack of the game. Create a responsive playlist for your mounts and other situations using YouTube and hundreds of other supported video hosters.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/blish-hud/",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.music_mixer_v0.6.2/Nekres.Music_Mixer-0.6.2.bhm",
+  "hash": "BA1FDC3B3C5317CB14DCE2E9F4A0EF0C493738DB0F353A7D664787A158B0961A"
+}
