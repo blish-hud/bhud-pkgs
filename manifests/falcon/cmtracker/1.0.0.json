@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "CM Tracker",
+  "namespace": "falcon.cmtracker",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "username": "Falcon.9283",
+      "name": "Falcon"
+    }
+  ],
+  "description": "Manual CM Tracker For weekly clears.",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/xpend/CM_Tracker",
+  "location": "https://github.com/xpend/CM_Tracker/releases/download/1.0.0/CM.Tracker.bhm",
+  "hash": "66D1F7DCAD51147B32B644197A5CE78F5429FAE2122F7E188A0B241D24DD24AD"
+}
