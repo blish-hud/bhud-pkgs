@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Mumble Info",
+  "namespace": "Nekres.Mumble_Info",
+  "version": "0.3.1",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1943"
+    }
+  ],
+  "description": "Displays real-time contextual data exposed by Guild Wars 2 using the MumbleLink specification.\nCan also display CPU and RAM utilization by the game.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/agaertner/Blish-HUD-Modules-Releases",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.mumble_info_v0.3.1/Nekres.Mumble_Info-0.3.1.bhm",
+  "hash": "94A6A566A752E14D3FC004DCEB70FC9A0E1145A66CCD5BCD4DBE920CC3BBA88B"
+}
