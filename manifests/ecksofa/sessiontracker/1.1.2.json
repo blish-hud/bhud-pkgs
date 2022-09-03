@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1",
+  "name": "Session Tracker",
+  "namespace": "ecksofa.sessiontracker",
+  "version": "1.1.2",
+  "contributors": [
+    {
+      "name": "Ecksofa",
+      "url": "https://github.com/Taschenbuch"
+    },
+    {
+      "name": "maanlichtje"
+    },
+    {
+      "name": "Metallis"
+    }
+  ],
+  "description": "Window to track different stats in your current gaming session for WvW, PvP and PvE. Stats can be:\n- wallet currencies (gold, karma, volatile magic, fractal relics, wvw skirmish tickets, ...)\n- PvP wins/losses, kill/death-ratios, deaths, ...\n- achievements (killed players in PvP/WvW, captured WvW towers, killed dolyaks, ...).\nWARNING: The data is read from the official GW2 API with your API key and is therefore delayed. Expect delays of at least 5 minutes.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/Taschenbuch/BlishHud-SessionTracker",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/ecksofa.sessiontracker_v1.1.2/ecksofa.sessiontracker-1.1.2.bhm",
+  "hash": "CC37F816171AD4B690F8BD36DB70DF5612B3B5EA8A06DDEEE856DCFD0B55F5B7"
+}
