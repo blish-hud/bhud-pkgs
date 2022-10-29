@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Inquest Chipset",
+  "namespace": "Nekres.Inquest_Module",
+  "version": "0.5.0",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1943"
+    }
+  ],
+  "description": "A set of electronic components used in integrated circuits by the Asuran Inquisition.\nFeatures: Auto-Clicker, Dodge-Jump key binding and more.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/agaertner/bhm-pocket-utilities",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.inquest_module_v0.5.0/Nekres.Inquest_Module-0.5.0.bhm",
+  "hash": "8975D9857214DC7742611923364D9EE4AFAD75807C11FE548951F39342824170"
+}
