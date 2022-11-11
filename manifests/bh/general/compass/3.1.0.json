@@ -3,7 +3,13 @@
   "name": "Compass",
   "namespace": "bh.general.compass",
   "version": "3.1.0",
-  "contributors": null,
+  "contributors": [
+    {
+      "name": "Freesnow",
+      "username": "LandersXanders.1235",
+      "url": "https://github.com/dlamkins"
+    }
+  ],
   "description": "Displays a basic indicator at your feet that shows you North, East, South, and West.",
   "dependencies": {
     "bh.blishhud": ">=0.8.0"
