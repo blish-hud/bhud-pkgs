@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Raid Clears",
+  "namespace": "Soeed.RaidClears",
+  "version": "1.4.0",
+  "contributors": [
+    {
+      "name": "Soeed",
+      "url": "https://github.com/a727891",
+      "username": "soeed.4160"
+    }
+  ],
+  "description": "Display weekly Raid clear and daily Dungeon progress. \nNote that clears data depends on the GW2 API and may take several minutes to update.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/a727891/BlishHud-Raid-Clears",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/soeed.raidclears_v1.4.0/Soeed.RaidClears-1.4.0.bhm",
+  "hash": "2C50423A3BC143A34EFB021443058F491C47E87A2CFD4343F94641310819F268"
+}
