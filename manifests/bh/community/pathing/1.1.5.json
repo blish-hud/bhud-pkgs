@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Pathing",
+  "namespace": "bh.community.pathing",
+  "version": "1.1.5",
+  "contributors": [
+    {
+      "url": "https://github.com/dlamkins",
+      "name": "Freesnow",
+      "username": "LandersXanders.1235"
+    }
+  ],
+  "description": "Display markers and trails in-game.  Supports both .zip and .taco format markers.\n\nCheck out our guide: https://link.blishhud.com/pathingsetup",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.2"
+  },
+  "url": "https://github.com/Blish-HUD/Pathing",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.community.pathing_v1.1.5/bh.community.pathing-1.1.5.bhm",
+  "hash": "E31913D39842D618868D5FD64A8FA7AB44E0944F8BEF0B27F85FD014121E0827"
+}
