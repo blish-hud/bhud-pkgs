@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Stopwatch",
+  "namespace": "Nekres.Stopwatch",
+  "version": "0.3.0",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1943"
+    }
+  ],
+  "description": "A stopwatch for the thrill seekers out there. Supports counting down from a given time.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-stopwatch",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.stopwatch_v0.3.0/Nekres.Stopwatch-0.3.0.bhm",
+  "hash": "37B25EC299C6855205F1C7170B8AA5FB6D6F39C6AD1172784490B4CFB94E5DF4"
+}
