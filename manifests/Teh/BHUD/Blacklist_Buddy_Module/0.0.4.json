@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Blacklist Buddy",
+  "namespace": "Teh.BHUD.Blacklist_Buddy_Module",
+  "version": "0.0.4",
+  "contributors": [
+    {
+      "name": "null",
+      "username": "xTeh.7146"
+    }
+  ],
+  "description": "Assists traders in managing their block list using the Overflow Trading Company's blacklist to avoid trading with scammers or other potentially dangerous individuals.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/xrandox/BlacklistBuddy",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/teh.bhud.blacklist_buddy_module_v0.0.4/Teh.BHUD.Blacklist_Buddy_Module-0.0.4.bhm",
+  "hash": "13ED12B51D7C6EB2CFBF292397CC42DC41025EDB47DE96965A857042A7C36AE1"
+}
