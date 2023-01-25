@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Stream Out",
+  "namespace": "Nekres.Stream_Out",
+  "version": "0.7.8",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1943"
+    }
+  ],
+  "description": "Exports game and account information to image and text files which can be used in OBS and other streaming software.\nSome update in real-time because they reflect your game's current state (eg. active\ncharacter's name, specialisation) while others update every 5 minutes as they reflect non-sensitive data from your\noverall account (eg. wallet coins, PvP/WvW rank).\nLegendary Insights, Legendary Divinations and Unstable Fractal Essences are exported from your www.killproof.me profile. Complementary pre-cropped static icons are provided for your convenience.\nThe default output folder can be located with the dropdown menu of the cogwheel button in the top-right corner when viewing the module's settings.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-context-exporter",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.stream_out_v0.7.8/Nekres.Stream_Out-0.7.8.bhm",
+  "hash": "F909AD17A34BEB0F698691210C27A0E978BAA47B4319FC96D988B0390D757CA9"
+}
