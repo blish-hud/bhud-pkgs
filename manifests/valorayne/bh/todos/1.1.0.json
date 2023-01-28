@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Todos",
+  "namespace": "valorayne.bh.todos",
+  "version": "1.1.0",
+  "contributors": [
+    {
+      "name": "Valorayne",
+      "username": "RavenGrey.4709"
+    }
+  ],
+  "description": "Allows to define potentially re-occuring custom Todos",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/Valorayne/BlishHudTodos",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/valorayne.bh.todos_v1.1.0/valorayne.bh.todos-1.1.0.bhm",
+  "hash": "FAFE43793E9D81C10ED1207B7D7F6AC8C1D0297BED858A7136C32E442F980C6C"
+}
