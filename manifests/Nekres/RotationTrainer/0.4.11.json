@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Special Forces",
+  "namespace": "Nekres.RotationTrainer",
+  "version": "0.4.11",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1943"
+    }
+  ],
+  "description": "Invent, trade and practice battle techniques.\nProve thyself in the ancient battle of the calculators. Only thy who do not lay down thy weapons may travel further than thy mighty Kitty Golem. Those who prevail against legendary foes shall be remembered as long as patch notes are engraved on pages that no one dares to visit.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-rotation-trainer",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.rotationtrainer_v0.4.11/Nekres.RotationTrainer-0.4.11.bhm",
+  "hash": "C98AFDDD3080FEDE9E331D013AC26662D6D421187C1CED62E788F88800E011E7"
+}
