@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "RELEASE TEH CHOYA!",
+  "namespace": "Kenedia.Modules.ReleaseTheChoya",
+  "version": "0.0.2",
+  "contributors": [
+    {
+      "name": "Kenedia",
+      "url": "https://github.com/KenediaDev"
+    }
+  ],
+  "description": "MORE CHOYA!",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/KenediaDev/Kenedia.BlishHUD",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.releasethechoya_v0.0.2/Kenedia.Modules.ReleaseTheChoya-0.0.2.bhm",
+  "hash": "DB882E1DCF8C866F8DB4A0D7A808DAA8603EABC3494410D20C9F6DD351DABFC3"
+}
