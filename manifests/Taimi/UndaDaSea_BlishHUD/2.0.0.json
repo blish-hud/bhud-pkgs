@@ -5,8 +5,8 @@
   "version": "2.0.0",
   "contributors": [
     {
-      "name": "Tiny Taimi",
-      "username": "NullValue.4956"
+      "username": "NullValue.4956",
+      "name": "Tiny Taimi"
     }
   ],
   "description": "Take your Guild Wars 2 underwater combat to a whole new level, down where its wetter!",
@@ -14,6 +14,6 @@
     "bh.blishhud": ">=0.11.1"
   },
   "url": "https://github.com/OpNop/UndaDaSea_BlishHUD",
-  "location": "https://github.com/OpNop/UndaDaSea-BlishHUD/releases/download/2.0.0/UndaDaSea-BlishHUD.bhm",
-  "hash": "047395D348E0B1B5233BA0253DAC6ED99A84F90935736F22CA182574BA4D5119"
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/taimi.undadasea_blishhud_v2.0.0/Taimi.UndaDaSea_BlishHUD-2.0.0.bhm",
+  "hash": "A1D5BA7FB12AC51E92F314E1B182ED087CC1E55B7D674C5331D270993566DDBE"
 }
