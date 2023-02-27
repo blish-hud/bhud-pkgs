@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Quill of the Mists",
+  "namespace": "Ideka.MistsQuill",
+  "version": "2.5.0",
+  "contributors": [
+    {
+      "username": "Ideka.7946",
+      "name": "Ideka"
+    }
+  ],
+  "description": "Leave Dark Souls style messages all over the world. Find and rate other players' messages. Try tongue but hole.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0"
+  },
+  "url": "https://github.com/ideka/MistsQuill",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/ideka.mistsquill_v2.5.0/Ideka.MistsQuill-2.5.0.bhm",
+  "hash": "1F3A007077B5316BFD231743DD7D78D6812651C6660F0E4F03A7B3668B29AE08"
+}
