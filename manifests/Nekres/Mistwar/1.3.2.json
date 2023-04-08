@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Mistwar",
+  "namespace": "Nekres.Mistwar",
+  "version": "1.3.2",
+  "contributors": [
+    {
+      "username": "Nekres.1943",
+      "name": "Nekres"
+    }
+  ],
+  "description": "A tactical map and head-up display for World VS. World to track objectives, their timers and territory control.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-mistwar",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.mistwar_v1.3.2/Nekres.Mistwar-1.3.2.bhm",
+  "hash": "68FA29B9670A7CA4037F77ACF5198B1DF3BE436430BB6569203C3465BB968CA9"
+}
