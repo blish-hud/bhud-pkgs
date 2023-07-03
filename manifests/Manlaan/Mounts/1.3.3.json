@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1",
+  "name": "Mounts",
+  "namespace": "Manlaan.Mounts",
+  "version": "1.3.3",
+  "contributors": [
+    {
+      "name": "Manlaan",
+      "username": "manlaan.8921"
+    },
+    {
+      "name": "Bennieboj",
+      "username": "bennieboj.2607"
+    }
+  ],
+  "description": "Mount icons + radial. Settings need to be configured before using the module!",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.6"
+  },
+  "url": "https://github.com/manlaan/BlishHud-Mounts",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/manlaan.mounts_v1.3.3/Manlaan.Mounts-1.3.3.bhm",
+  "hash": "E6C582F9D4893A72EDA316D4BE029ECBA8EA51C1BA50BD02ADAFE040B5B540A3"
+}
