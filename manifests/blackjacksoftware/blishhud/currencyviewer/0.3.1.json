@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "CurrencyViewer",
+  "namespace": "blackjacksoftware.blishhud.currencyviewer",
+  "version": "0.3.1",
+  "contributors": [
+    {
+      "name": "BlackjackKent",
+      "url": "https://github.com/blackjackkent",
+      "username": "BlackjackKent.9826"
+    }
+  ],
+  "description": "Track your current quantities of different in-game currencies easily. Values update approx. every five minutes.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/blackjackkent/blishhud-currency-viewer",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/blackjacksoftware.blishhud.currencyviewer_v0.3.1/blackjacksoftware.blishhud.currencyviewer-0.3.1.bhm",
+  "hash": "A497DAF5B6C39950DB9609BCFA85EB80A8528678B4FB9B86893FF748A7CDF085"
+}
