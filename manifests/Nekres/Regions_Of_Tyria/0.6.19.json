@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Regions of Tyria",
+  "namespace": "Nekres.Regions_Of_Tyria",
+  "version": "0.6.19",
+  "contributors": [
+    {
+      "username": "Nekres.1943",
+      "name": "Nekres"
+    }
+  ],
+  "description": "A beautiful area notification as you walk in and out of different zones.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-zone-display",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.regions_of_tyria_v0.6.19/Nekres.Regions_Of_Tyria-0.6.19.bhm",
+  "hash": "3410865D98FF97C0D554452232492205C72E02F2217CB4564B4A0C4603640832"
+}
