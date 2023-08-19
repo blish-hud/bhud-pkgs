@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Universal Search",
+  "namespace": "bh.general.universalsearch",
+  "version": "0.8.1",
+  "contributors": [
+    {
+      "username": "Estreya.8675",
+      "name": "Estreya"
+    }
+  ],
+  "description": "Allows you to search for in game landmarks (waypoints, POIs, vistas, etc.), skills and traits and copy the chat codes into your clipboard or directly into the ingame chat.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/Tharylia/Blish-HUD-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.general.universalsearch_v0.8.1/bh.general.universalsearch-0.8.1.bhm",
+  "hash": "27BAF5A5E6ACD041D00B1DB92539098C480823BCE2C7063A886FB5C46E158C7C"
+}
