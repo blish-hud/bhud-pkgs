@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Emotes",
+  "namespace": "xyz.f3l1x.blishemotes",
+  "version": "1.0.2",
+  "contributors": [
+    {
+      "url": "https://github.com/f3l1x98",
+      "name": "f3l1x"
+    }
+  ],
+  "description": "Blish HUD module for UI assisted emotes",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/f3l1x98/blish-emotes",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/xyz.f3l1x.blishemotes_v1.0.2/xyz.f3l1x.blishemotes-1.0.2.bhm",
+  "hash": "1607A7119675B7CB522EECE7551A09EDAC4510AC0B7E1AEB63A8F188C5420B8D"
+}
