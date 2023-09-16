@@ -2,6 +2,12 @@
 
 This repository contains the manifest files for **Blish HUD modules**.  You are highly encouraged to submit manifests for your modules so that they can be listed in the Blish HUD module viewer.  This also for users to easily discover your modules and automatically update their copies when you submit changes.
 
+# Deprecated Guide
+
+The guide below is deprecated!  All modules must now be submitted via our module management system: SSRD.
+
+---
+
 # Submitting a Package
 
 To submit a package to the repository, you should follow these steps:
