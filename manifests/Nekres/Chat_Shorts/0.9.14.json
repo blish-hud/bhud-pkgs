@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Chat Shorts",
+  "namespace": "Nekres.Chat_Shorts",
+  "version": "0.9.14",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1943"
+    }
+  ],
+  "description": "Allows you to create shortcuts for recurring chat messages.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-chat-macros",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.chat_shorts_v0.9.14/Nekres.Chat_Shorts-0.9.14.bhm",
+  "hash": "30A8649E3575E05ED0B892354DF1DDC35764F4E3D12C9AEDD5ABE6CE334D7F61"
+}
