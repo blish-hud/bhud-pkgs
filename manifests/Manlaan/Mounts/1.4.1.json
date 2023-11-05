@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1",
+  "name": "Mounts & More",
+  "namespace": "Manlaan.Mounts",
+  "version": "1.4.1",
+  "contributors": [
+    {
+      "name": "Bennieboj",
+      "username": "bennieboj.2607"
+    },
+    {
+      "name": "Manlaan",
+      "username": "manlaan.8921"
+    }
+  ],
+  "description": "Mounts, mastery skills and novelty icons in radial, icon rows and corner icons. Settings need to be configured before using the module!",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/bennieboj/BlishHud-Mounts",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/manlaan.mounts_v1.4.1/Manlaan.Mounts-1.4.1.bhm",
+  "hash": "AB9BAE7DE8AF782ACD7C25632E68DF7A687507D5C17DAF95B2B78DA904113855"
+}
