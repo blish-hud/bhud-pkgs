@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Quick Surrender",
+  "namespace": "Nekres.Quick_Surrender_Module",
+  "version": "0.2.5",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1943"
+    }
+  ],
+  "description": "Shortcut to concede defeat and abandon all hope for when you are so done with everything.\n\nCan only be used in raids, strikes, fractals, Super Adventure Box and occasionally in special seasonal activities.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-quick-surrender",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.quick_surrender_module_v0.2.5/Nekres.Quick_Surrender_Module-0.2.5.bhm",
+  "hash": "42A43FC1E7734FF843246023E61CD2F1B3643FFC9FA32B3AC7BE0BA440454DC2"
+}
