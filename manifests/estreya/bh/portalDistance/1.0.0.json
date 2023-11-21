@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Portal Distance",
+  "namespace": "estreya.bh.portalDistance",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Estreya",
+      "username": "Estreya.8675"
+    }
+  ],
+  "description": "Displays how far you are from your portal entrance.",
+  "dependencies": {
+    "bh.blishhud": "^1.0.0"
+  },
+  "url": "https://github.com/Tharylia/Blish-HUD-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/estreya.bh.portaldistance_v1.0.0/estreya.bh.portalDistance-1.0.0.bhm",
+  "hash": "ACFD771E993146938743B4F404E8B52C5C99C4575FC51A176F499174902D5DC0"
+}
