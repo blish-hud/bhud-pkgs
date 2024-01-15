@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1",
+  "name": "Happy Reset",
+  "namespace": "Soeed.HappyReset",
+  "version": "1.0.2",
+  "contributors": [
+    {
+      "name": "Soeed",
+      "username": "soeed.4160",
+      "url": "https://github.com/a727891"
+    },
+    {
+      "name": "Freesnow",
+      "username": "freesnow.7251",
+      "url": "https://github.com/dlamkins"
+    }
+  ],
+  "description": "Bring back the daily login chest to open the Wizard's Vault.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/a727891/BlishHud-HappyReset",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/soeed.happyreset_v1.0.2/Soeed.HappyReset-1.0.2.bhm",
+  "hash": "8AA7BCF5758F0D58BACFDD2C7FB0DBC8C8CAFE3CE9288ABD52FDC9AE13875ED6"
+}
