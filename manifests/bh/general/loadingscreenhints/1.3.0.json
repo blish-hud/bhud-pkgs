@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Loading Screen Hints",
+  "namespace": "bh.general.loadingscreenhints",
+  "version": "1.3.0",
+  "contributors": [
+    {
+      "username": "Nekres.1943",
+      "name": "Nekres"
+    }
+  ],
+  "description": "Shows tips, facts, quotations and riddles during the loading screen.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-loading-hints",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.general.loadingscreenhints_v1.3.0/bh.general.loadingscreenhints-1.3.0.bhm",
+  "hash": "542C5BED8B73D188D9734C51F1E923F1D3821E9782E4995C86564A68B733B415"
+}
