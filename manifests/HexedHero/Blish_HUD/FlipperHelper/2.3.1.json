@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Flipper Helper",
+  "namespace": "HexedHero.Blish_HUD.FlipperHelper",
+  "version": "2.3.1",
+  "contributors": [
+    {
+      "username": "HexedHero.3854",
+      "name": "HexedHero",
+      "url": "https://github.com/HexedHero"
+    }
+  ],
+  "description": "Calculate flip profits on the trading post.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/HexedHero/FlipperHelper",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/hexedhero.blish_hud.flipperhelper_v2.3.1/HexedHero.Blish_HUD.FlipperHelper-2.3.1.bhm",
+  "hash": "ABAF04842B137D198A8760DCAB1021F38DE300C44D9AE086A41A61E4E524091D"
+}
