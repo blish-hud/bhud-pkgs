@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Custom Combat Text",
+  "namespace": "Ideka.CustomCombatText",
+  "version": "0.1.1",
+  "contributors": [
+    {
+      "username": "Ideka.7946",
+      "name": "Ideka"
+    }
+  ],
+  "description": "Customize the look of combat events on your screen. Requires ArcDPS Bridge.\nInspired by Artenuvielle's SCT.",
+  "dependencies": {
+    "bh.blishhud": ">=1.1.1"
+  },
+  "url": "https://github.com/ideka/CustomCombatText",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/ideka.customcombattext_v0.1.1/Ideka.CustomCombatText-0.1.1.bhm",
+  "hash": "DBF4D3AEB234C2C1BB401725B02003D6D851AA0C8EEC94A546F0239D087D04EF"
+}
