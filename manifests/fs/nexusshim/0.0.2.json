@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Nexus Shim",
+  "namespace": "fs.nexusshim",
+  "version": "0.0.2",
+  "contributors": [
+    {
+      "name": "Freesnow",
+      "url": "https://github.com/dlamkins",
+      "username": "freesnow.7251"
+    }
+  ],
+  "description": "Provides basic integration with Nexus.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/dlamkins/NexusShim",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/fs.nexusshim_v0.0.2/fs.nexusshim-0.0.2.bhm",
+  "hash": "7D0AE1FA2E348EE106E80C5F2DAE77109443B632927EFE1C3E144B62A66FEBA2"
+}
