@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Fail Screens",
+  "namespace": "Nekres.FailScreens",
+  "version": "0.4.0",
+  "contributors": [
+    {
+      "username": "Nekres.1943",
+      "name": "Nekres"
+    }
+  ],
+  "description": "Allows you to calibrate the amount of emotional damage received upon defeat.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-fail-screens",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.failscreens_v0.4.0/Nekres.FailScreens-0.4.0.bhm",
+  "hash": "25261F3309300DBE840994B96FC5ECBEB2811839EA4EEC411ECD2D0D56F54DDA"
+}
