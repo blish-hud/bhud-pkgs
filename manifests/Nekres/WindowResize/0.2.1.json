@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "GW2 Window Resizer",
+  "namespace": "Nekres.WindowResize",
+  "version": "0.2.1",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1943"
+    }
+  ],
+  "description": "Resizes the GW2 window to a prefered size when you are switching to windowed mode.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-window-resize",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.windowresize_v0.2.1/Nekres.WindowResize-0.2.1.bhm",
+  "hash": "A6767A26924E5A07C98B261C9A0E2913A2F4EE3663968C16F84F9C0112A04DB5"
+}
