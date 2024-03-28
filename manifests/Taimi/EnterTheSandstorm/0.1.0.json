@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Enter The Sandstorm",
+  "namespace": "Taimi.EnterTheSandstorm",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Tiny Taimi",
+      "username": "NullValue.4956"
+    }
+  ],
+  "description": "Are you ready for the Sandstorm?",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/OpNop/EnterTheSandstorm",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/taimi.enterthesandstorm_v0.1.0/Taimi.EnterTheSandstorm-0.1.0.bhm",
+  "hash": "D913E3E78111F4E1E49A3DAB073BDB8BB3FA0B4FE2C57F3B0BE9702933DF4F4C"
+}
