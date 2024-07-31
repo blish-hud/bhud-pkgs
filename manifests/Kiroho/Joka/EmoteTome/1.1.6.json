@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "EmoteTome",
+  "namespace": "Kiroho.Joka.EmoteTome",
+  "version": "1.1.6",
+  "contributors": [
+    {
+      "username": "kiroho.4738",
+      "name": "Kiroho Joka",
+      "url": "https://github.com/Kiroho"
+    }
+  ],
+  "description": "This module provides a graphical interface for your Emotes.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/Kiroho/EmoteTome",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kiroho.joka.emotetome_v1.1.6/Kiroho.Joka.EmoteTome-1.1.6.bhm",
+  "hash": "C4814B5A1DBDA03B5BA750F6BF11473412E19635444255D40D25F90431DE9874"
+}
