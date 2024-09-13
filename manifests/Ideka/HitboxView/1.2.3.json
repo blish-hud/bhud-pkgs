@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Hitbox View",
+  "namespace": "Ideka.HitboxView",
+  "version": "1.2.3",
+  "contributors": [
+    {
+      "name": "Ideka",
+      "username": "Ideka.7946"
+    }
+  ],
+  "description": "See your character's hitbox, adjusted for ping.\nNow with mount-accurate hitboxes.",
+  "dependencies": {
+    "bh.blishhud": "^1.0.0"
+  },
+  "url": "https://github.com/ideka/HitboxView",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/ideka.hitboxview_v1.2.3/Ideka.HitboxView-1.2.3.bhm",
+  "hash": "9AA79BA15DDA300666FCB49C6DDC13AC9B6D3A8944E964D20FEACC06F1838D84"
+}
