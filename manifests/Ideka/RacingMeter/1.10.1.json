@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Racing Meter",
+  "namespace": "Ideka.RacingMeter",
+  "version": "1.10.1",
+  "contributors": [
+    {
+      "name": "Ideka",
+      "username": "Ideka.7946"
+    }
+  ],
+  "description": "Advanced, specialized mount speedometers. Leaderboards for offical and unofficial races. Race your own ghost, or ghosts form the leaderboards.",
+  "dependencies": {
+    "bh.blishhud": "^1.0.0"
+  },
+  "url": "https://github.com/ideka/RacingMeter",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/ideka.racingmeter_v1.10.1/Ideka.RacingMeter-1.10.1.bhm",
+  "hash": "CB890D17FEC064CC44F32DF4AE045B8A279CB3ECDACDDBFABF64B4B3784D0F6B"
+}
