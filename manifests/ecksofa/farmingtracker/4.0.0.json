@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1",
+  "name": "Farming Tracker",
+  "namespace": "ecksofa.farmingtracker",
+  "version": "4.0.0",
+  "contributors": [
+    {
+      "name": "Ecksofa",
+      "url": "https://github.com/Taschenbuch"
+    },
+    {
+      "name": "Greaka"
+    }
+  ],
+  "description": "Tracks item and currency changes on your account.\n- Click on its menu icon at the top left of the gw2 screen to show the tracker window.\n- This module uses DRF to track items and currencies. Instructions for setting up DRF can be found in the settings.\n- Requires at least 'Window 8' because of WebSocket technology.\n- The GW2 API is used too for various things like calculating the profit and getting item/currency icons and details. While DRF is very fast, the GW2 API may still delay the tracking by several seconds.\n- Differences from session tracker module. Farming tracker: tracks much faster because of DRF; can track every item; can only track items and currencies and not custom stats (pvp/wvw stats, achievement values, ...); can not track total counts on account.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/Taschenbuch/BlishHud-FarmingTracker",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/ecksofa.farmingtracker_v4.0.0/ecksofa.farmingtracker-4.0.0.bhm",
+  "hash": "92FF6EE081AA39CD098B62B6E52B4B709D0A79050EE9AF74769AEFCFD22F21AA"
+}
