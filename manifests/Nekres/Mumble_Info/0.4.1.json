@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Mumble Info",
+  "namespace": "Nekres.Mumble_Info",
+  "version": "0.4.1",
+  "contributors": [
+    {
+      "name": "Nekres",
+      "username": "Nekres.1943"
+    }
+  ],
+  "description": "Displays real-time contextual data exposed by Guild Wars 2 using the MumbleLink specification.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/agaertner/bhm-mumble-info",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nekres.mumble_info_v0.4.1/Nekres.Mumble_Info-0.4.1.bhm",
+  "hash": "0C6A8E6E0532CDC9A4CC6F44D4305B5F1C7082B987086DC86680731CC725EE25"
+}
