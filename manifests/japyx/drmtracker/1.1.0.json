@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "DrmTracker",
+  "namespace": "japyx.drmtracker",
+  "version": "1.1.0",
+  "contributors": [
+    {
+      "username": "Japyx.3265",
+      "name": "Japyx"
+    }
+  ],
+  "description": "A module to help you track your Dragon Response Missions (DRM) completion to ease the selection process when you play with someone !",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/OlivierCharton/DrmTracker",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/japyx.drmtracker_v1.1.0/japyx.drmtracker-1.1.0.bhm",
+  "hash": "31724B25914B91E4225A636D60F4F1A50DA66828B63511A540DF1F3C91206907"
+}
