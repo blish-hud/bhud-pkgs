@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Dance Dance Rotation",
+  "namespace": "com.shooper.ddr",
+  "version": "1.7.0",
+  "contributors": [
+    {
+      "username": "Shooper.7129",
+      "name": "Shooper"
+    }
+  ],
+  "description": "Learn class rotations to the beat!",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/campbt/DanceDanceRotation",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/com.shooper.ddr_v1.7.0/com.shooper.ddr-1.7.0.bhm",
+  "hash": "C17EDF2619A97CE0C1FE2B16C9AE58072B90466390D262EDF02E3CDE026F9C2A"
+}
