@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Event Table",
+  "namespace": "estreya.bh.eventTable",
+  "version": "3.16.2",
+  "contributors": [
+    {
+      "name": "Estreya",
+      "username": "Estreya.8675"
+    }
+  ],
+  "description": "Creates an event table which displays all timer based events.\nProvides high customizing abilities.\n\nAlso provides standalone notifications.\n\nLayout is inspired by TacO.",
+  "dependencies": {
+    "bh.blishhud": "^1.0.0"
+  },
+  "url": "https://github.com/Tharylia/Blish-HUD-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/estreya.bh.eventtable_v3.16.2/estreya.bh.eventTable-3.16.2.bhm",
+  "hash": "12A9A507B1A681E330FDA5D0DF8FB7838922868D4A148F238D323AAADC36492E"
+}
