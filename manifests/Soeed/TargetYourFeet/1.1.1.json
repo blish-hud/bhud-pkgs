@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Bomb your feet",
+  "namespace": "Soeed.TargetYourFeet",
+  "version": "1.1.1",
+  "contributors": [
+    {
+      "name": "Soeed",
+      "username": "soeed.4160",
+      "url": "https://github.com/a727891"
+    }
+  ],
+  "description": "Keybind to help place ground AoEs at your feet. (PvE Only)\n\nHold a keybind to move your mouse over your health globe so AoE targetting aims at your feet\nThis is the same as if you double clicked your AoE skills",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/a727891/TargetYourFeet",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/soeed.targetyourfeet_v1.1.1/Soeed.TargetYourFeet-1.1.1.bhm",
+  "hash": "80D5FD8FC363152E65ADFB860B09DECFF625F0FC1D0EAB70020E2715B0C8E9DE"
+}
