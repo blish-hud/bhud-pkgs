@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "What Role Am I Playing?",
+  "namespace": "Soeed.WhatRoleAmIPlaying",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "username": "Soeed.4160",
+      "name": "Soeed",
+      "url": "https://github.com/a727891"
+    }
+  ],
+  "description": "Suggest a random raid build to play next based on a role you select. Perfect for indecisive commanders!",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/a727891/BlishHud-WhatRoleAmIPlaying",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/soeed.whatroleamiplaying_v1.0.0/Soeed.WhatRoleAmIPlaying-1.0.0.bhm",
+  "hash": "20255B03F68F610A3A94F8CB8AA2077CAAF7000CB0C5CB89610C78C3E276D8AA"
+}
