@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Decor",
+  "namespace": "bh.decor.decormodule",
+  "version": "1.6.0",
+  "contributors": [
+    {
+      "username": "Terter.4125",
+      "name": "Terter",
+      "url": "https://github.com/Georgi-Kalkovski"
+    }
+  ],
+  "description": "Allows players to have a simple decoration previewer for homestead and guild hall. The module uses the images from GW2 Wiki.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/Georgi-Kalkovski/GW2Decor",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.decor.decormodule_v1.6.0/bh.decor.decormodule-1.6.0.bhm",
+  "hash": "8DFA18645FB28260E28417F41BC752F677C87161B56A67C77F5AB8F7E0B01345"
+}
