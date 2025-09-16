@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1",
+  "name": "Player Marker",
+  "namespace": "Tortle.PlayerMarker",
+  "version": "1.1.2",
+  "contributors": [
+    {
+      "username": "LuckyTortle.1529",
+      "url": "https://github.com/RobertMacdonald7",
+      "name": "LuckyTortle"
+    },
+    {
+      "name": "Liquid",
+      "username": "LiquidNight.1560"
+    }
+  ],
+  "description": "Displays a marker at the player's location.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/RobertMacdonald7/BlishHud-PlayerMarker",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/tortle.playermarker_v1.1.2/Tortle.PlayerMarker-1.1.2.bhm",
+  "hash": "EC8AB23865DE6F7864F9ECC3494C7B1EA35CF0CE4416DDFAE6E02FC3232AC8E4"
+}
