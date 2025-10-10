@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1",
+  "name": "Commander Markers",
+  "namespace": "Manlaan.CommanderMarkers",
+  "version": "3.4.0",
+  "contributors": [
+    {
+      "name": "Soeed",
+      "username": "Soeed.4160"
+    },
+    {
+      "name": "Manlaan",
+      "username": "manlaan.8921"
+    }
+  ],
+  "description": "Place squad markers with the click a mouse.\nOr place a full set of markers from your saved library.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/manlaan/BlishHud-CommanderMarkers",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/manlaan.commandermarkers_v3.4.0/Manlaan.CommanderMarkers-3.4.0.bhm",
+  "hash": "EC81407B6EF602ECD8A06B7E670654DFCF85BAEB31923CD8D61475A797F7BBAF"
+}
