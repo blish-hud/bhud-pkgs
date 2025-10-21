@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1",
+  "name": "CM Tracker",
+  "namespace": "falcon.cmtracker",
+  "version": "1.2.2",
+  "contributors": [
+    {
+      "name": "Falcon",
+      "username": "Falcon.9283"
+    },
+    {
+      "name": "ChepeGuicho",
+      "username": "chepeguicho.4923"
+    }
+  ],
+  "description": "Manual CM Tracker For weekly clears.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.0"
+  },
+  "url": "https://github.com/alhazmy13/CM_Tracker",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/falcon.cmtracker_v1.2.2/falcon.cmtracker-1.2.2.bhm",
+  "hash": "F0B8EA9B5A87597EDE3F5971EFE651CFEEC00CD00A3D3118E6D6A94C4B043C33"
+}
