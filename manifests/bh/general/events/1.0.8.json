@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Events and Metas Observer",
+  "namespace": "bh.general.events",
+  "version": "1.0.8",
+  "contributors": [
+    {
+      "name": "Community"
+    }
+  ],
+  "description": "Displays upcoming events and metas and gives you the option to subscribe to in-game notifications for when they're going to be starting soon.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.0"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.general.events_v1.0.8/bh.general.events-1.0.8.bhm",
+  "hash": "0729CC8129D80E2058718BF26B2996196E3D95A6F466F2FF5388C1448B64A8E3"
+}
