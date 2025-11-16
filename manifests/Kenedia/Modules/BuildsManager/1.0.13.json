@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Builds Manager",
+  "namespace": "Kenedia.Modules.BuildsManager",
+  "version": "1.0.13",
+  "contributors": [
+    {
+      "name": "Kenedia",
+      "url": "https://github.com/KenediaDev"
+    }
+  ],
+  "description": "A Blish approach to store and share build setups (gear and build) with your friends, guilds and communities. A must have for everyone with a lot of builds!",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/KenediaDev/Kenedia.BlishHUD",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.buildsmanager_v1.0.13/Kenedia.Modules.BuildsManager-1.0.13.bhm",
+  "hash": "3FEC993E231E493B7A26A64841AB8414B0B390ECC1D1CD1DCF8D5D1F5B2AC9C5"
+}
