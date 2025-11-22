@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Tyrian QoL",
+  "namespace": "Kenedia.Modules.QoL",
+  "version": "1.0.11",
+  "contributors": [
+    {
+      "name": "Kenedia",
+      "url": "https://github.com/KenediaDev"
+    }
+  ],
+  "description": "A collection of smaller Quality of Life features!",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/KenediaDev/Kenedia.BlishHUD",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.qol_v1.0.11/Kenedia.Modules.QoL-1.0.11.bhm",
+  "hash": "225339F922FB0AD73210521C7502D05ED96525DB055D4388A7A7DC79B0777C27"
+}
