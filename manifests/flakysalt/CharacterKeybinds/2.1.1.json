@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Character Keybinds",
+  "namespace": "flakysalt.CharacterKeybinds",
+  "version": "2.1.1",
+  "contributors": [
+    {
+      "username": "Aquaforce.3784",
+      "url": "https://github.com/flakysalt",
+      "name": "flakysalt"
+    }
+  ],
+  "description": "Switch your keybinds automatically when switching your character or specialization",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/flakysalt/Blish-HUD-CharacterKeybinds",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/flakysalt.characterkeybinds_v2.1.1/flakysalt.CharacterKeybinds-2.1.1.bhm",
+  "hash": "82E04246535B12EE1886178FE50794094BDDB61A7971086A3D27B43C074EBD69"
+}
