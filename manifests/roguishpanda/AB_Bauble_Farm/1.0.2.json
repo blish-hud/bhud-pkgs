@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Custom Timers & Events",
+  "namespace": "roguishpanda.AB_Bauble_Farm",
+  "version": "1.0.2",
+  "contributors": [
+    {
+      "name": "roguishpanda",
+      "username": "RoguishPanda.9507"
+    }
+  ],
+  "description": "Can be used to create custom timers and event trackers for gold farms and/or meta events. \n\nAdditional features include: custom packages for timer/events, fast chat shorts for waypoints and notes, community packages, and the ability to copy/import your friend''s packages.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/roguishpanda.ab_bauble_farm_v1.0.2/roguishpanda.AB_Bauble_Farm-1.0.2.bhm",
+  "hash": "2C096A2F062A4B2452BAA8B999EEA5E190191C220D4DB2760EBA19F1F7642CD7"
+}
