@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "HomeDesigner",
+  "namespace": "Kiroho.Joka.HomeDesigner",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Kiroho Joka",
+      "username": "kiroho.4738",
+      "url": "https://github.com/Kiroho/HomeDesigner"
+    }
+  ],
+  "description": "Provides additional features for Homstead decorating. More editing options, easy merging of templates and searching differences between templates.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kiroho.joka.homedesigner_v1.0.0/Kiroho.Joka.HomeDesigner-1.0.0.bhm",
+  "hash": "8178690F3DFA39663D91545F7ECBD93AB7668E590DB2DFA458503E6A9E0956FF"
+}
