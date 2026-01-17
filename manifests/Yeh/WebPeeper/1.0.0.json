@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "WebPeeper",
+  "namespace": "Yeh.WebPeeper",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "yeh"
+    }
+  ],
+  "description": "A web browser dependent on the GW2 CEF library.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/cy-sp-howard/WebPeeper",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/yeh.webpeeper_v1.0.0/Yeh.WebPeeper-1.0.0.bhm",
+  "hash": "DDDBAFCCB267969A2112702F3BEA49460E4C44378C6C7D477AE33669AE346E37"
+}
