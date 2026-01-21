@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Maestro",
+  "namespace": "Aex.Maestro",
+  "version": "2.0.0",
+  "contributors": [
+    {
+      "name": "Aex"
+    }
+  ],
+  "description": "Play music on GW2 instruments from within Blish HUD. Supports harp, piano, lute, and bass with 103 embedded songs.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/uwponcel/Maestro",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/aex.maestro_v2.0.0/Aex.Maestro-2.0.0.bhm",
+  "hash": "D21E61DD983F443C9B4D3C633C2DA006CBD1D8396578A87B8A88DDDD8C8AB30E"
+}
