@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "NPC Finder",
+  "namespace": "abattele.npcfinder",
+  "version": "1.2.0",
+  "contributors": [
+    {
+      "name": "Abattele",
+      "username": "Abattele"
+    }
+  ],
+  "description": "Search GW2 Wiki NPCs (and other objects) and draw an overlay marker on the in-game world map (M).\n\nIf you have any questions or feedback/ideas, feel free to reach out (https://github.com/Abattele/NpcFinder/issues) or send an in-game mail at Abattele.8973.\n\nThis addon caches the results to your TEMP/NpcFinderCache folder\n\nMade this in my spare time, I won't be able to maintain/improve this too often since I don't really have a lot of time...",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/Abattele/NpcFinder",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/abattele.npcfinder_v1.2.0/abattele.npcfinder-1.2.0.bhm",
+  "hash": "6B3C87502D5328D6D3A5300E828100BFBE37E5C56A1223FC6C1456ED3E2349A3"
+}
