@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Chat Links",
+  "namespace": "sliekens.chat_links",
+  "version": "6.1.0",
+  "contributors": [
+    {
+      "url": "https://github.com/sliekens",
+      "name": "sliekens",
+      "username": "Steven.6309"
+    }
+  ],
+  "description": "Chat link editor—create your own customized chat links.",
+  "dependencies": {
+    "bh.blishhud": ">=1.3.0 <2.0.0"
+  },
+  "url": "https://github.com/sliekens/blish-hud-modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/sliekens.chat_links_v6.1.0/sliekens.chat_links-6.1.0.bhm",
+  "hash": "BB5B413FBF63E90DB45A2469594965C07AD87FE781AB263E58DB05C61D14297F"
+}
