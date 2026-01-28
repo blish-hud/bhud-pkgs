@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "LT Messages",
+  "namespace": "bh.lt.messages",
+  "version": "0.8.6",
+  "contributors": [
+    {
+      "name": "Senzall"
+    }
+  ],
+  "description": "Allows LTs and Commanders to send preset squad broadcast messages. Helping squads and LTs literally get the message out!",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/senzal/LTMessages",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.lt.messages_v0.8.6/bh.lt.messages-0.8.6.bhm",
+  "hash": "BDE73951A761FC4D0A070C3180FF22EB4373D2DCAC9AFB79E9B4D8E075F71854"
+}
