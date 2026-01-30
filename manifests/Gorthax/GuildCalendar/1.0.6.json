@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Guild Calendar",
+  "namespace": "Gorthax.GuildCalendar",
+  "version": "1.0.6",
+  "contributors": [
+    {
+      "username": "Gorthax",
+      "name": "Gorthax"
+    }
+  ],
+  "description": "Displays upcoming guild events.",
+  "dependencies": {
+    "bh.blishhud": ">=1.3.0"
+  },
+  "url": "https://github.com/Xahtrog/Guild-Calendar",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/gorthax.guildcalendar_v1.0.6/Gorthax.GuildCalendar-1.0.6.bhm",
+  "hash": "DCCD3938F86979C0C390B962A13D670C900A544BAC2C7269B5FA425255EBB582"
+}
