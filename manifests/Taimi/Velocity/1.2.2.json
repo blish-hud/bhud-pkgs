@@ -1,0 +1,17 @@
+{
+  "manifest_version": "1",
+  "name": "V.E.L.O.C.I.T.Y.",
+  "namespace": "Taimi.Velocity",
+  "version": "1.2.2",
+  "contributors": [
+    {
+      "username": "Gorthax_",
+      "name": "Gorhax"
+    }
+  ],
+  "description": "--==Brought to you by the Guild known as DEAD==--: Quickly search for waypoints and copy their chat links to your clipboard using the Virtual Enumeration of Locations for Optimal City & Interstitial Teleportation Yields! ",
+  "dependencies": null,
+  "url": "https://www.google.com",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/taimi.velocity_v1.2.2/Taimi.Velocity-1.2.2.bhm",
+  "hash": "E631686B8C07506C9D49CBD58F94AD6627ECF7656E62362D4832CB8004E0988D"
+}
