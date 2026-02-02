@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "LT Messages",
+  "namespace": "bh.lt.messages",
+  "version": "0.9.1",
+  "contributors": [
+    {
+      "name": "Senzall"
+    }
+  ],
+  "description": "Send preset messages to any chat channel with one click! Perfect for LTs and Commanders managing squads. Features: 6 customizable message lists with custom names, flexible chat targeting (squad/map/party/guild/whispers), auto-send or clipboard mode, in-game message editor, and keybind support. For more advanced custom message features, we recommend also using the chat_shorts plugin.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/senzal/LTMessages",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.lt.messages_v0.9.1/bh.lt.messages-0.9.1.bhm",
+  "hash": "50EFF5C047430265FB9C589FC850219EB9D117B57D3102937AEBA0B6EE5123A2"
+}
