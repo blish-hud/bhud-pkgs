@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "CinemaHUD",
+  "namespace": "Originals.GW2.CinnemaHUD",
+  "version": "1.1.0",
+  "contributors": [
+    {
+      "name": "Ori",
+      "url": "https://www.gw2opus.com/user/ori/",
+      "username": "Originals.8492"
+    }
+  ],
+  "description": "Watch Twitch streams or play custom video's in game world or directly on screen.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/originals.gw2.cinnemahud_v1.1.0/Originals.GW2.CinnemaHUD-1.1.0.bhm",
+  "hash": "98DD5B3853136634B18AFC5D831F37420BA40ED93BAF042CAE62FE370550E569"
+}
