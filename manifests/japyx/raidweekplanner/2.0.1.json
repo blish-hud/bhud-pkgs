@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "RaidWeekPlanner",
+  "namespace": "japyx.raidweekplanner",
+  "version": "2.0.1",
+  "contributors": [
+    {
+      "username": "Japyx.3265",
+      "name": "Japyx"
+    }
+  ],
+  "description": "A module to help you plan your weekly raids and raid encounters.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/OlivierCharton/RaidWeekPlanner",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/japyx.raidweekplanner_v2.0.1/japyx.raidweekplanner-2.0.1.bhm",
+  "hash": "CEA131AB9B0A97E2D1C243151931E598E49055FE18F2DD49D94C5F96D8D66C2E"
+}
