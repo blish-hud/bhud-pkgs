@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Gilled Wars",
+  "namespace": "Gorthax.GilledWars",
+  "version": "1.5.2",
+  "contributors": [
+    {
+      "username": "Gorthax_",
+      "name": "Gorhax"
+    }
+  ],
+  "description": "===IMPORTANT===  !!!!!Visit www.gilledwars.com for setup instructions!!!! ===IMPORTANT END==== Tournament fishing logger with verification, cooler UI, and personal best tracking. You can add a webhook for a discord server channel and the end results will auto populate there. Usng a secure API connection to the Gilled Wars website, we generate a room code unique to you, that when done will delete itself so it cant be used again after the tournament ends. Your Discord webhook is never shared with anyone or exposed. It remains secure.",
+  "dependencies": {
+    "bh.blishhud": ">= 1.3.0"
+  },
+  "url": "https://github.com/Xahtrog/GilledWars",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/gorthax.gilledwars_v1.5.2/Gorthax.GilledWars-1.5.2.bhm",
+  "hash": "75E22DEF3A8A35723462FF6DA81C291403C029BFB0EF71E4CD0EAE3EBE442421"
+}
