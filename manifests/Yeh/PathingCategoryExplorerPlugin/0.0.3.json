@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Pathing Category Explorer Plugin",
+  "namespace": "Yeh.PathingCategoryExplorerPlugin",
+  "version": "0.0.3",
+  "contributors": [
+    {
+      "username": "****",
+      "name": "yeh"
+    }
+  ],
+  "description": "Extend the context menu in the Pathing Category Explorer.",
+  "dependencies": {
+    "bh.community.pathing": ">=1.11.3",
+    "bh.blishhud": ">=1.3.0"
+  },
+  "url": "https://github.com/cy-sp-howard/PathingCategoryExplorerPlugin",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/yeh.pathingcategoryexplorerplugin_v0.0.3/Yeh.PathingCategoryExplorerPlugin-0.0.3.bhm",
+  "hash": "002FBDE2F15B5A14F45413BDED63BE419760B16C514FE35267BAEC8C5205C4D8"
+}
