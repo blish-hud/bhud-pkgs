@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1",
+  "name": "Clears Tracker",
+  "namespace": "Soeed.RaidClears",
+  "version": "3.7.1",
+  "contributors": [
+    {
+      "username": "soeed.4160",
+      "url": "https://github.com/a727891",
+      "name": "Soeed"
+    },
+    {
+      "username": "kami.8342",
+      "url": "https://github.com/MidoriKami",
+      "name": "Abbadon"
+    }
+  ],
+  "description": "Track your daily and weekly PvE instance clears\nRaids, Fractals, and Dungeons",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/a727891/BlishHud-Raid-Clears",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/soeed.raidclears_v3.7.1/Soeed.RaidClears-3.7.1.bhm",
+  "hash": "B7ED5E994BB69A1638DD928C0BFD99DD1FB46BDE2F512F3FEB3006971702877C"
+}
