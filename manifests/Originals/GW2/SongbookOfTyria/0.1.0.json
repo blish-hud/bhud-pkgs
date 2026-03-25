@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Songbook of Tyria",
+  "namespace": "Originals.GW2.SongbookOfTyria",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "username": "Originals.8492",
+      "url": "https://www.gw2opus.com/user/ori/",
+      "name": "Ori"
+    }
+  ],
+  "description": "Browse and view songs from the GW2 Opus songbook for manually playing music.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://www.gw2opus.com/songbook/",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/originals.gw2.songbookoftyria_v0.1.0/Originals.GW2.SongbookOfTyria-0.1.0.bhm",
+  "hash": "8FF33FCED594640710EF46340B1A00DF405D45F06A52744B38B71234C75C4ADA"
+}
