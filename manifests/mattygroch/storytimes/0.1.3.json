@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Story Times",
+  "namespace": "mattygroch.storytimes",
+  "version": "0.1.3",
+  "contributors": [
+    {
+      "username": "MattyGroch.1036",
+      "url": "https://github.com/MattyGroch",
+      "name": "MattyGroch"
+    }
+  ],
+  "description": "Shows time estimates for story missions from gw2storytimes.com. Includes an in-game timer and community feedback system.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/MattyGroch/gw2-storytimerwidget",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/mattygroch.storytimes_v0.1.3/mattygroch.storytimes-0.1.3.bhm",
+  "hash": "B248E7BD7FCD37768ADA28ED05C3ACFA7B29BB8EA8A67CE10000B5C1EFE6C4E0"
+}
