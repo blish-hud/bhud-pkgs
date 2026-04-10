@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Pathing Map Align Plugin",
+  "namespace": "Yeh.PathingMapAlignPlugin",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "username": "****",
+      "name": "yeh"
+    }
+  ],
+  "description": "Align the Pathing with map manually.",
+  "dependencies": {
+    "bh.community.pathing": ">=1.11.3",
+    "bh.blishhud": ">=1.3.0"
+  },
+  "url": "https://github.com/cy-sp-howard/PathingMapAlignPlugin",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/yeh.pathingmapalignplugin_v0.0.1/Yeh.PathingMapAlignPlugin-0.0.1.bhm",
+  "hash": "4A8E4937417921B0385534E51BF22C8132D327A13BDAC852E412081B9B076B4E"
+}
