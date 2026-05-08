@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Tyria's GPS",
+  "namespace": "itzferal.tyriasgps",
+  "version": "1.8.5",
+  "contributors": [
+    {
+      "username": "Feral.6057",
+      "url": "https://github.com/davidmatthew-dev",
+      "name": "ItzFeral"
+    }
+  ],
+  "description": "Search locations and generate a chat link for whispering to yourself.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/davidmatthew-dev/TyriasGPS",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/itzferal.tyriasgps_v1.8.5/itzferal.tyriasgps-1.8.5.bhm",
+  "hash": "06C5F54A5A55C8B90278012EC16E63AEE1DD0DE82CCFC1879DA0FB8CA39E84EA"
+}
