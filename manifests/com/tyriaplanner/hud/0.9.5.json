@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Tyria Planner",
+  "namespace": "com.tyriaplanner.hud",
+  "version": "0.9.5",
+  "contributors": [
+    {
+      "name": "Tyria Planner",
+      "username": "Sercanirik",
+      "url": "https://github.com/Sercanirik"
+    }
+  ],
+  "description": "In-game popups for upcoming signups and brand-new guild events scheduled on tyriaplanner.com.\n\nAdds a corner-icon menu, /sqjoin and copy-commander-name buttons, one-click check-in, and an officer / event-creator approval queue. Pulls a wider snapshot every 60 s while the menu is open and pushes reminder toasts ahead of check-in and event start. Server-sent events surface new guild events within seconds.\n\nThe addon exchanges your GW2 API key for a scoped 90-day bearer (addon:read addon:write) on first use. The bearer can read your upcoming events + guild events + the approval queue, and powers two user-initiated actions only: marking your own signup as 'checked in', and approving / rejecting pending signups in guilds where you are an officer/owner (or events you created). Revoke at any time from your Tyria Planner profile.\n\nSource and issues: https://github.com/Sercanirik/TyriaPlannerHud-Blish",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/Sercanirik/TyriaPlannerHud-Blish",
+  "location": "https://github.com/Sercanirik/TyriaPlannerHud-Blish/releases/download/v0.9.5/TyriaPlanner.Hud.bhm",
+  "hash": "DF24BDDC64DE9F08C84A36D1185A6271FD795F8A3566D7C4FB94BA9A840294D4"
+}
