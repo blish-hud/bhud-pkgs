@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Tyria Planner",
+  "namespace": "com.tyriaplanner.hud",
+  "version": "0.11.3",
+  "contributors": [
+    {
+      "username": "Sercanirik",
+      "url": "https://tyriaplanner.com",
+      "name": "Tyria Planner"
+    }
+  ],
+  "description": "Shows in-game popups for your upcoming Tyria Planner signups and new guild events. Click to /sqjoin or copy the commander's account name for /whisper.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/Sercanirik/TyriaPlannerHud-Blish",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/com.tyriaplanner.hud_v0.11.3/com.tyriaplanner.hud-0.11.3.bhm",
+  "hash": "CC62A37C440ED39C46BF21FA1A6DC8FBA6261D2245CC6E1EBBF82F537C6C95BC"
+}
