@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "MIDI Control",
+  "namespace": "davidrice.blishhud.midicontrol",
+  "version": "0.0.3",
+  "contributors": [
+    {
+      "name": "davidlukerice",
+      "url": "https://github.com/davidlukerice"
+    }
+  ],
+  "description": "Converts MIDI device messages to keypresses for playing GW2 Instruments",
+  "dependencies": {
+    "bh.blishhud": ">=1.3.0"
+  },
+  "url": "https://github.com/davidlukerice/blish-hud-midi-control",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/davidrice.blishhud.midicontrol_v0.0.3/davidrice.blishhud.midicontrol-0.0.3.bhm",
+  "hash": "E035A37EEB4B364581F1D29C080D6C91B50507A95A6A2BD11C89CE4078531C4D"
+}
