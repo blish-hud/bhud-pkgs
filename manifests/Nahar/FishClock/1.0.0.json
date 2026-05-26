@@ -1,0 +1,12 @@
+{
+  "manifest_version": "1",
+  "name": "Fishing Map Clock",
+  "namespace": "Nahar.FishClock",
+  "version": "1.0.0",
+  "contributors": null,
+  "description": "Displays a localized, draggable fishing timer for specific maps to optimize your daily fishing windows.",
+  "dependencies": null,
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/nahar.fishclock_v1.0.0/Nahar.FishClock-1.0.0.bhm",
+  "hash": "3DB05E06DDE79CAE35D7B684E388EB56DE8F1CBA08E584B3F73358B76EF764D8"
+}
