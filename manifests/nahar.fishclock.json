@@ -1,0 +1,17 @@
+{
+  "Namespace": "Nahar.FishClock",
+  "Version": "1.0.0",
+  "Location": "COLE_AQUI_O_LINK_DE_DOWNLOAD_DO_SEU_BHM_DO_GITHUB",
+  "Manifest": {
+    "manifest_version": 1,
+    "name": "Fishing Map Clock",
+    "version": "1.0.0",
+    "namespace": "Nahar.FishClock",
+    "package": "FishClock.dll",
+    "entry_point": "Nahar.FishClock.FishClockModule",
+    "description": "Displays a localized, draggable fishing timer for specific maps to optimize your daily fishing windows.",
+    "author": {
+      "name": "Nahar.5349"
+    }
+  }
+}
