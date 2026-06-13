@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "CinemaHUD",
+  "namespace": "Originals.GW2.CinnemaHUD",
+  "version": "2.1.1",
+  "contributors": [
+    {
+      "url": "https://www.gw2opus.com/user/ori/",
+      "username": "Originals.8492",
+      "name": "Ori"
+    }
+  ],
+  "description": "Watch Twitch, YouTube, and any VLC-supported URL directly in Guild Wars 2. Display on screen or in the game world, with Watch Party support for synchronized viewing with friends.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/originals.gw2.cinnemahud_v2.1.1/Originals.GW2.CinnemaHUD-2.1.1.bhm",
+  "hash": "AA426C211DDDD86DD0CEC4BEE2B965DE728335C45A3E431B3E0B7F5ACB073F5D"
+}
