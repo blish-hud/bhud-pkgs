@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Tyria's GPS",
+  "namespace": "itzferal.tyriasgps",
+  "version": "1.9.0",
+  "contributors": [
+    {
+      "url": "https://github.com/davidmatthew-dev",
+      "username": "Feral.6057",
+      "name": "ItzFeral"
+    }
+  ],
+  "description": "Find waypoints, locations, and NPCs by name, then copy their chat link or wiki command.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/davidmatthew-dev/TyriasGPS",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/itzferal.tyriasgps_v1.9.0/itzferal.tyriasgps-1.9.0.bhm",
+  "hash": "0B26B254A29F3B1C637739CD720A50FEE2F1D29FC6586BB7B1CBD22C1ACB6B05"
+}
