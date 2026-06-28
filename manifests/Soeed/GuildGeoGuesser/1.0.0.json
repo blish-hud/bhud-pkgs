@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1",
+  "name": "Guild Geo Guesser",
+  "namespace": "Soeed.GuildGeoGuesser",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Soeed",
+      "username": "Soeed.4160"
+    },
+    {
+      "name": "AvianCanine",
+      "username": "AvianCanine.4591"
+    }
+  ],
+  "description": "Play a game of Tyria GeoGuess with your Guild",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/a727891/BlishHud-GuildGeoGuesser",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/soeed.guildgeoguesser_v1.0.0/Soeed.GuildGeoGuesser-1.0.0.bhm",
+  "hash": "5B3CD50357DE75C4D5624FF0A9849A876432A954DDBA74B94BF47A803B67E1F6"
+}
