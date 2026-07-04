@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "GW2.app",
+  "namespace": "app.gw2",
+  "version": "1.0.2",
+  "contributors": [
+    {
+      "url": "https://gw2.app",
+      "username": "Yoone.9461",
+      "name": "Yoone"
+    }
+  ],
+  "description": "Access your GW2.app lists in game to work on your goals. Open gw2.app/blish to get started!\n\nSupports waypoint copying, achievement tracking, timers, story progress, equipped gear, Trading Post price/order/history watchers, and much more.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://gw2.app/blish",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/app.gw2_v1.0.2/app.gw2-1.0.2.bhm",
+  "hash": "494A984C0F19A3B90876AE7FF80E5D3A4B3C2A263AC0A98208B8D2165BBFF8A3"
+}
