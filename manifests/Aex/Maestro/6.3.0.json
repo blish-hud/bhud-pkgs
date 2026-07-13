@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Maestro",
+  "namespace": "Aex.Maestro",
+  "version": "6.3.0",
+  "contributors": [
+    {
+      "name": "Aex"
+    }
+  ],
+  "description": "Maestro lets you play music on GW2 instruments: Piano, Harp, Lute, Bass, Flute, Bell, and Drum Set. 100+ built-in songs, a song creator, community sharing, song import, and a queue with repeat and shuffle. Full guide: https://blishhud.com/modules/?module=Aex.Maestro",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/uwponcel/Maestro",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/aex.maestro_v6.3.0/Aex.Maestro-6.3.0.bhm",
+  "hash": "F62C06005C6D6FF320859813009080B49433A017F837CB5D9EDD241BBC05B1E8"
+}
