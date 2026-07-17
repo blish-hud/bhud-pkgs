@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Where Is My PSNA",
+  "namespace": "com.odizinne.whereismypsna",
+  "version": "1.1.1",
+  "contributors": [
+    {
+      "name": "Odizinne"
+    }
+  ],
+  "description": "Shows today's Pact Supply Network Agent locations / recipes and lets you copy any of them to your clipboard.",
+  "dependencies": {
+    "bh.blishhud": ">=1.3.0"
+  },
+  "url": "https://github.com/floraaubry/wimpsna",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/com.odizinne.whereismypsna_v1.1.1/com.odizinne.whereismypsna-1.1.1.bhm",
+  "hash": "232D5C16C5388417A9462511C6F97049FF89EE9AB959C2054CD6CB4FF0C3DAD8"
+}
