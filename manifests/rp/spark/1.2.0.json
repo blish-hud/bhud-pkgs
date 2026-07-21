@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Simple Profile And Roleplay Kit",
+  "namespace": "rp.spark",
+  "version": "1.2.0",
+  "contributors": [
+    {
+      "name": "Taw / Bat.8570"
+    }
+  ],
+  "description": "SPARK is an RP module that allows you to create character profiles for roleplaying, advertise your profiles and RP status to others, and view other player's RP profiles.",
+  "dependencies": {
+    "bh.blishhud": ">=1.3.0"
+  },
+  "url": "https://github.com/at-bat/Blish-HUD-SPARK",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/rp.spark_v1.2.0/rp.spark-1.2.0.bhm",
+  "hash": "403B39B06559CE24D9B0C24AF8B05FDF85A9446129636E38F572B900D074A6DB"
+}
