@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Characters",
+  "namespace": "Kenedia.Modules.Characters",
+  "version": "1.0.45",
+  "contributors": [
+    {
+      "url": "https://github.com/KenediaDev",
+      "name": "Kenedia"
+    }
+  ],
+  "description": "I have a dream that swapping characters is quick and easy even with 73 of them! Unfortunately, swapping characters can quickly become quite a pain with many characters.\nWhere was the Asuran Guardian I parked in Draconis Mons among my 73 characters?\nI have great news! This module will change your life, that's how close it comes to the dream. Search for the right characters using dozens of filter options and switch to them with just one click!",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/KenediaDev/Kenedia.BlishHUD",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/kenedia.modules.characters_v1.0.45/Kenedia.Modules.Characters-1.0.45.bhm",
+  "hash": "2D34041BB01EB35FD0A89F4558D96E2C4E9CE0E356A9E4BF67DAF4D31D1F1ADE"
+}
