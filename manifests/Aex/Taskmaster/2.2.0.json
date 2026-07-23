@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Taskmaster",
+  "namespace": "Aex.Taskmaster",
+  "version": "2.2.0",
+  "contributors": [
+    {
+      "name": "Aex"
+    }
+  ],
+  "description": "Tabbed to-do lists for GW2 recurring content. Freeform tabs, counters, subtasks, presets, click-to-copy, reset countdowns, due-soon warnings, and shareable tab exports - with a reset engine that never drifts.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/uwponcel/Taskmaster",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/aex.taskmaster_v2.2.0/Aex.Taskmaster-2.2.0.bhm",
+  "hash": "21BEFFFCCD17E08C33E81BA1F1A895A5E3FD163DD18DCB73407770DDD5C26069"
+}
