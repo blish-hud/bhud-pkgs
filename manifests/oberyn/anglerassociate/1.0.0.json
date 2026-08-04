@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Angler Associate",
+  "namespace": "oberyn.anglerassociate",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "username": "Oberyn.6125",
+      "name": "Oberyn"
+    }
+  ],
+  "description": "Helps tracking which daily fish to catch for the EOD achievement and what fish can be caught based on the day/night cycle (and where)",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/OberynCrowstorm/AnglerAssociate",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/oberyn.anglerassociate_v1.0.0/oberyn.anglerassociate-1.0.0.bhm",
+  "hash": "391E2C4ACD459FC6DA33BAA542594FC9FE25BDAC88554020115C4A0380150611"
+}
