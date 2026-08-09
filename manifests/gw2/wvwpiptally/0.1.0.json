@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "WvW Pip Tally",
+  "namespace": "gw2.wvwpiptally",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "navi.5047"
+    }
+  ],
+  "description": "WvW skirmish reward track calculator. Scan Match Overview to read your current chest and pips/tick, then see time remaining to Diamond.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/gw2.wvwpiptally_v0.1.0/gw2.wvwpiptally-0.1.0.bhm",
+  "hash": "11497C71302544E36D436CE3CFCF90A0218AC73729A5F45F54B252D9CAF5B8C6"
+}
