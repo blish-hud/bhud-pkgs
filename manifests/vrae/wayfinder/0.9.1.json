@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Wayfinder",
+  "namespace": "vrae.wayfinder",
+  "version": "0.9.1",
+  "contributors": [
+    {
+      "username": "cheeese.8640",
+      "name": "Vrae"
+    }
+  ],
+  "description": "A Skyrim-style compass. Projects waypoints, points of interest, vistas, hearts and hero points onto a bar at the top of the screen, aligned with your camera's field of view. Includes an experimental ring drawn at your character's feet, and a map window for tracking what you have already discovered.",
+  "dependencies": {
+    "bh.blishhud": "^1.2.0"
+  },
+  "url": "https://github.com/frtocheeese-ops/wayfinder",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/vrae.wayfinder_v0.9.1/vrae.wayfinder-0.9.1.bhm",
+  "hash": "8A7E1C7D2EBED1836007F8A15097CD0C139A5E863AD2A2A039E628A12DA1069F"
+}
