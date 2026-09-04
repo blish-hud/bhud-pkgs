@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Angler Associate",
+  "namespace": "oberyn.anglerassociate",
+  "version": "2.0.0",
+  "contributors": [
+    {
+      "username": "Oberyn.6125",
+      "name": "Oberyn"
+    }
+  ],
+  "description": "Tracks the daily EOD fishing bounty, shows what's catchable right now based on the day/night cycle, and helps you browse fish by region or find out what you can catch at a specific fishing hole - including exactly where to go and the nearest waypoint to get there.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/OberynCrowstorm/AnglerAssociate",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/oberyn.anglerassociate_v2.0.0/oberyn.anglerassociate-2.0.0.bhm",
+  "hash": "C276B2146C8BA948C7C06B990FB379655A110362BAC679B9038664B634E02FC5"
+}
