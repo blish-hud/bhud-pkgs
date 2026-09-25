@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Quarry",
+  "namespace": "ArranPell.Quarry",
+  "version": "2.0.6",
+  "contributors": [
+    {
+      "name": "ArranPell",
+      "url": "https://github.com/ArranPell"
+    }
+  ],
+  "description": "Shows which achievements you can finish on the map you're on, what's left on each, and the nearest objective to walk to. Includes waypoint suggestions, a small Target List, and Hunt mode, which turns on a marker pack's routes for what you're hunting (needs the Pathing module).\nBased on Denrage's Achievement Tracker (MIT): https://github.com/Denrage/AchievementTrackerModule",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/ArranPell/Quarry",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/arranpell.quarry_v2.0.6/ArranPell.Quarry-2.0.6.bhm",
+  "hash": "36C9A0B4AB612889BF62C140639BE414352521849439108C82895E5B936B3DB7"
+}
