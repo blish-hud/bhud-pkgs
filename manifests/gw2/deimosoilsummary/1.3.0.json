@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Who Touched Oils",
+  "namespace": "gw2.deimosoilsummary",
+  "version": "1.3.0",
+  "contributors": [
+    {
+      "name": "navi.5047"
+    }
+  ],
+  "description": "After a Deimos pull, shows who stepped in Rapid Decay (oils) and how many times from ArcDPS combat logs. No ArcDPS Blish bridge required.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://thryphore.github.io/Who-Touched-Oils/",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/gw2.deimosoilsummary_v1.3.0/gw2.deimosoilsummary-1.3.0.bhm",
+  "hash": "31AF1A5044C9A1C9952211E48CC88177BD38AEEF2AEAF7203292DDEA8DB2322C"
+}
