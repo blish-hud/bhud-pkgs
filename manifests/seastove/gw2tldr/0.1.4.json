@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "GW2 TLDR",
+  "namespace": "seastove.gw2tldr",
+  "version": "0.1.4",
+  "contributors": [
+    {
+      "name": "SeaStove",
+      "url": "https://github.com/SeaStove"
+    }
+  ],
+  "description": "Quick, customizable encounter guides for raids, fractals, dungeons, and meta events. Browse guides at https://gw2tldr.com. Share guide corrections, ideas, or bug reports using Provide feedback in the module menu.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://gw2tldr.com",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/seastove.gw2tldr_v0.1.4/seastove.gw2tldr-0.1.4.bhm",
+  "hash": "D4626603908FB2968715F9A5515E7F3E04952280656BADA7EC20DB8B755DEC9E"
+}
