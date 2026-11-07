@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Error Submission Module",
+  "namespace": "bh.community.etm",
+  "version": "4.1.0",
+  "contributors": [
+    {
+      "name": "Freesnow",
+      "username": "freesnow.7251",
+      "url": "https://github.com/dlamkins"
+    }
+  ],
+  "description": "When an error in Blish HUD occurs, gives you the ability to have that error info automatically sent for review.  The info is sent anonymously unless you provide us with a username to contact once we've resolved the issue.'",
+  "dependencies": {
+    "bh.blishhud": ">=0.7.0"
+  },
+  "url": "https://github.com/Blish-HUD/ErrorSubmissionModule",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.community.etm_v4.1.0/bh.community.etm-4.1.0.bhm",
+  "hash": "25B7EFF508D1AAAE7C2FFBB6B6E8358A32B8A9F34BFF76C518799B2336E8EAD6"
+}
