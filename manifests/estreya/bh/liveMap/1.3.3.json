@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Live Map",
+  "namespace": "estreya.bh.liveMap",
+  "version": "1.3.3",
+  "contributors": [
+    {
+      "name": "Estreya",
+      "username": "Estreya.8675"
+    }
+  ],
+  "description": "Shares your ingame position with your guild members or even global for everyone to see.",
+  "dependencies": {
+    "bh.blishhud": "^1.0.0"
+  },
+  "url": "https://github.com/Tharylia/Blish-HUD-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/estreya.bh.livemap_v1.3.3/estreya.bh.liveMap-1.3.3.bhm",
+  "hash": "9AFF54897FE58A8C6E94D4B79714A6CA3E0333402B3DDCCE3BF1B631507FB1BC"
+}
