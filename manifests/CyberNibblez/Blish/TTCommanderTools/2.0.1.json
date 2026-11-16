@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "TT Commander Tools",
+  "namespace": "CyberNibblez.Blish.TTCommanderTools",
+  "version": "2.0.1",
+  "contributors": [
+    {
+      "name": "Sofia.7843 | gw2tt.com",
+      "email": "sofia@gw2tt.com"
+    }
+  ],
+  "description": "Helper tools for the Triple Trouble Event: Initial release contains a helper for the keg despawn timer on the Cobalt Wurm",
+  "dependencies": {
+    "bh.blishhud": ">= 1.0.0"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/cybernibblez.blish.ttcommandertools_v2.0.1/CyberNibblez.Blish.TTCommanderTools-2.0.1.bhm",
+  "hash": "DE35C2314F837F7E0F8AC9177B6B2B5E32A5DB74E13E68DABEE67FC57E134D57"
+}
