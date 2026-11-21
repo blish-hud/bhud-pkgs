@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1",
+  "name": "Guild Missions",
+  "namespace": "entrhopi.Guild_Missions",
+  "version": "1.7.0",
+  "contributors": [
+    {
+      "name": "entrhopi",
+      "username": "entrhopi.3067"
+    },
+    {
+      "name": "Lennn"
+    },
+    {
+      "name": "Zabb"
+    }
+  ],
+  "description": "Helps with guild trek/race/puzzle missions and other guild things in the future.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/EntRhoPi/Blish-HUD-Guild-Missions",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/entrhopi.guild_missions_v1.7.0/entrhopi.Guild_Missions-1.7.0.bhm",
+  "hash": "BA3BB32AC96F417A6FE7370E4736AC03C95419553F81D57CE45A0BB654233EB9"
+}
